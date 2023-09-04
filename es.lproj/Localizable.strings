@@ -1,0 +1,245 @@
+/* Headers */
+"Settings" = "Settings";
+"Developer" = "Desarrollador de BHTikTok";
+"PlusDeveloper" = "Desarrollador de BHTikTok Plus";
+
+/* Main */
+"DownloadOptions" = "Downloads";
+"FeedOptions" = "Feed";
+"ProfileOptions" = "Profile";
+"ConfirmationOptions" = "Confirmation";
+"RegionOptions" = "Region";
+"FakeOptions" = "Fake";
+"ColorOptions" = "Appearance";
+"OtherOptions" = "Other";
+"Apply" = "Aplicar";
+
+/* Developer */
+"TipJar" = "Donar para el desarrollo";
+"DonateViaPayPal" = "Donar a través de PayPal";
+"Donate" = "Support the development";
+"Telegram" = "Nuestro canal de Telegram";
+"Thanks" = "Agradecimientos especiales";
+"DonateMessage" = "If you like BHTikTok Plus and would like to support me, you can buy me a coffee using any of convenient ways below.\n\nThanks❤";
+"MaybeLater" = "Maybe Later";
+"ThankYou" = "Thanks";
+
+/* Download Options */
+"DownloadFeedHeader" = "Feed";
+"DownloadVideos" = "Descargar videos";
+"DownloadVideosDesc" = "Agregar un botón para descargar videos sin marca de agua.";
+"DownloadHDVideos" = "Descargar videos HD";
+"DownloadHDVideosDesc" = "Añade la opción de descargar videos en HD (H.265). Nota: Este formato puede no ser compatible con algunas aplicaciones";
+"DownloadMusics" = "Descargar música";
+"DownloadMusicsDesc" = "Agregar un botón para descargar música desde videos.";
+"CopyVideoDescription" = "Copiar descripción del video";
+"CopyVideoDescriptionDesc" = "Agregar un botón para copiar la descripción de un video.";
+"CopyVideosLink" = "Copiar enlace de video";
+"CopyVideosLinkDesc" = "Agregar un botón para copiar enlaces de video.";
+"CopyMusicsLink" = "Copiar enlace de música";
+"CopyMusicsLinkDesc" = "Agregar un botón para copiar enlaces de música.";
+"DownloadProfileHeader" = "Profile";
+"SaveProfileImage" = "Guardar imagen de perfil";
+"SaveProfileImageDesc" = "Permitir la descarga de la imagen de perfil al mantenerla presionada.";
+"CopyProfileInformation" = "Copiar información de perfil";
+"CopyProfileInformationDesc" = "Permitir copiar información de perfil al mantener presionada la foto de perfil o el nombre de usuario.";
+"DownloadedAction" = "Post-Loading Action";
+"SaveToPhotos" = "Save To Photos";
+"ShowShareSheet" = "Show Share Sheet";
+"DownloadMenu" = "Download Menu Style";
+"CompactMenu" = "Compact";
+"OldMenu" = "TikTok";
+
+/* Feed Options */
+"Feed" = "Opciones";
+"NoAds" = "Desactivar anuncios";
+"NoAdsDesc" = "Eliminar los anuncios de la aplicación.";
+"HideUI" = "Modo pantalla completa";
+"HideUIDesc" = "Agregar un botón para ocultar/mostrar la interfaz.";
+"UploadRegion" = "Mostrar región/país de subida";
+"UploadRegionDesc" = "Mostrar la bandera de la región/país de subida del video junto al nombre de usuario.";
+"ShowUsername" = "Mostrar nombre de usuario en lugar de apodo";
+"ShowUsernameDesc" = "Mostrar el nombre de usuario en lugar del apodo, como en versiones anteriores.";
+"TransparentComms" = "Comentarios semitransparentes";
+"TransparentCommsDesc" = "Hacer el fondo de la ventana de comentarios semitransparente para poder leerlos mientras se ve un video.";
+"ClearLinks" = "Clear Links";
+"ClearLinksDesc" = "Removes tracking from links shared from your account";
+"SkipRecs" = "Skip Recommendations";
+"SkipLive" = "Omitir en vivo";
+"ShowProgressBar" = "Mostrar barra de progreso";
+"PlaybackAction" = "Action after Video Playback Completion";
+"Replay" = "Repeat";
+"Stop" = "Stop";
+"SkipToNext" = "Skip to Next";
+"RegionStyle" = "Region Format and Placement";
+"CountryFlag" = "Country Flag";
+"CountryCode" = "Country Code";
+"InNickname" = "Nickname";
+"TopRight" = "Top Right Corner";
+"StartupPage" = "Startup Page";
+"ForYou" = "For You";
+"Following" = "Following";
+
+/* Profile Options */
+"FollowStatus" = "Estado de seguimiento";
+"FollowStatusDesc" = "Mostrar el estado de seguimiento en el perfil.";
+"VideoCount" = "Video Count";
+"VideoCountDesc" = "Displays the total number of uploads in user profiles";
+"TotalVideoCount" = "Posts: %@"; // %@ is total video count (Posts: 25)
+"UploadDate" = "Fecha de subida del video";
+"UploadDateDesc" = "Mostrar la fecha de subida en las miniaturas de videos en el perfil.";
+"ProfileLikeCount" = "Me gusta en videos del perfil";
+"ProfileLikeCountDesc" = "Mostrar la cantidad de 'me gusta' en las miniaturas de videos en el perfil.";
+"UnsensitiveContent" = "Contenido no sensible";
+"UnsensitiveContentDesc" = "Eliminar la advertencia de contenido sensible.";
+"NoJustWatched" = "Eliminar 'Acabo de ver'";
+"NoJustWatchedDesc" = "Eliminar el 'Acabo de ver' en las miniaturas de los videos.";
+"ExtendBio" = "Extender biografía";
+"ExtendBioDesc" = "Aumentar el límite de caracteres de la biografía a 222.";
+"ExtendComment" = "Extender límite de comentarios";
+"ExtendCommentDesc" = "Aumentar el límite de caracteres de los comentarios a 240.";
+"UploadHD" = "Always upload in HD";
+"UploadHDDesc" = "Forcibly uploads videos in HD quality";
+
+/* Confirmation Options */
+"ConfirmLike" = "Confirmar me gusta";
+"ConfirmLikeDesc" = "Confirmar antes de dar 'me gusta' a un video.";
+"ConfirmCommentLike" = "Confirmar me gusta en el comentario";
+"ConfirmCommentLikeDesc" = "Confirmar antes de dar 'me gusta' a un comentario.";
+"ConfirmCommentDislike" = "Confirmar no me gusta en el comentario";
+"ConfirmCommentDislikeDesc" = "Confirmar antes de dar 'no me gusta' a un comentario.";
+"ConfirmFollow" = "Confirmar seguir";
+"ConfirmFollowDesc" = "Confirmar antes de seguir a un usuario.";
+
+/* Region */
+"EnableChangingRegion" = "Habilitar cambio de región";
+"Regions" = "Regiones";
+"Algeria" = "Argelia";
+"Anguilla" = "Anguila";
+"Argentina" = "Argentina";
+"Australia" = "Australia";
+"Belarus" = "Bielorrusia";
+"Brazil" = "Brasil";
+"Canada" = "Canadá";
+"Denmark" = "Dinamarca";
+"Egypt" = "Egipto";
+"Finland" = "Finlandia";
+"France" = "Francia";
+"Germany" = "Alemania";
+"HongKong" = "Hong Kong";
+"Indonesia" = "Indonesia";
+"Italy" = "Italia";
+"Japan" = "Japón";
+"Kazakhstan" = "Kazajistán";
+"Kuwait" = "Kuwait";
+"Laos" = "Laos";
+"Lebanon" = "Líbano";
+"Macao" = "Macao";
+"Malaysia" = "Malasia";
+"Mexico" = "México";
+"Norway" = "Noruega";
+"Pakistan" = "Pakistán";
+"Panama" = "Panamá";
+"Philippines" = "Filipinas";
+"Romania" = "Rumania";
+"Russia" = "Rusia";
+"SaudiArabia" = "Arabia Saudita";
+"Singapore" = "Singapur";
+"SouthKorea" = "Corea del Sur";
+"Sudan" = "Sudán";
+"Taiwan" = "Taiwán";
+"Thailand" = "Tailandia";
+"Turkey" = "Turquía";
+"Ukraine" = "Ucrania";
+"UnitedArabEmirates" = "Emiratos Árabes Unidos";
+"UnitedKingdom" = "Reino Unido";
+"UnitedStates" = "Estados Unidos";
+"Vietnam" = "Vietnam";
+"Senegal" = "Senegal";
+"Switzerland" = "Suiza";
+"Albania" = "Albania";
+"Moldova" = "Moldavia";
+"Croatia" = "Croacia";
+"Morocco" = "Marruecos";
+"Yemen" = "Yemen";
+"Turkmenistan" = "Turkmenistan";
+"Uzbekistan" = "Uzbekistan";
+"Azerbaijan" = "Azerbaijan";
+
+/* Fake */
+"FakeBlueMark" = "Falsificar marca de verificación";
+"EnableFakeOptions" = "Habilitar opciones falsas de seguimiento/Me gusta";
+"FollowerCount" = "Seguidores";
+"FollowingCount" = "Siguiendo";
+"LikeCount" = "Me gusta";
+"EnterNumber" = "Enter a Number";
+"FakeDesc" = "Dejar en blanco para mostrar el valor original, estos cambios solo serán visibles para ti.";
+
+/* Color Options */
+"NicknameColor" = "Change Nickname Color";
+"NicknameColorDesc" = "Alters the color of nicknames in the feed";
+"NicknameColorGlobal" = "Apply to All Nicknames";
+"NicknameColorGlobalDesc" = "Changes nicknames color throughout the app. Enabling \"%@\" option required"; // %@ is NicknameColor
+"CommentColor" =  "Change Comment Color";
+"CommentColorDesc" =  "Alters the colors of comments and video descriptions";
+"SelectColor" = "Choose Color";
+"ProfileTextShadow" = "Apply Shadow to Thumbnails";
+"ProfileTextShadowDesc" = "Applies shadow to statistics on video thumbnails in profiles";
+"NicknameTextShadow" = "Apply Shadow to Nicknames";
+"NicknameTextShadowDesc" = "Applies shadow to nicknames in feed";
+"NicknameGlobalShadow" = "Apply to All Nicknames";
+"NicknameGlobalShadowDesc" = "Applies shadow to nicknames throughout the app. Enabling \"%@\" option required"; // %@ is NicknameTextShadow
+
+/* Other */
+"BHButtonPlacement" = "Settings Button Placement";
+"InProfile" = "In Profile";
+"InSettings" = "In Settings";
+"Padlock" = "Bloqueo con contraseña";
+"PadlockDesc" = "Requiere una contraseña para desbloquear la aplicación.";
+"Cache" = "Borrar caché";
+"Cleared" = "Completado\nBorrado %@";
+
+/* Special Thanks */
+"Arabic" = "Localización en árabe";
+"ChineseSimplified" = "Localización en chino simplificado";
+"ChineseTraditional" = "Traditional Chinese localization";
+"Spanish" = "Localización en español";
+"French" = "Localisation française";
+
+/* Pop-ups And Other Stuff */
+"BHTikTokSettings" = "BHTikTok Plus";
+"AreYouSure" = "¿Estás seguro?";
+"ActionFollow" = "Follow";
+"ActionLike" = "Like";
+"ActionDislike" = "Dislike";
+"ConfirmAction" = "Confirm Action";
+"Yes" = "Sí";
+"No" = "No";
+"Confirm" = "Confirm";
+"Cancel" = "Cancelar";
+"Downloading" = "Descargando";
+"DownloadVideo" = "Descargar video";
+"DownloadHDVideo" = "Descargar video HD";
+"DownloadMusic" = "Descargar música";
+"CopyMusicLink" = "Copiar enlace de música";
+"CopyVideoLink" = "Copiar enlace de video";
+"DownloadAllPhotos" = "Descargar todas las fotos";
+"DownloadThisPhoto" = "Descargar esta foto";
+"CopyDescription" = "Copiar descripción";
+"WhatToCopy" = "Seleccionar acción";
+"CopySocialName" = "Copiar nombre de usuario social";
+"CopyNickName" = "Copiar nombre de usuario";
+"CopyBio" = "Copiar biografía";
+"CopyBioURL" = "Copiar enlace de biografía";
+"VidNoMusic" = "Video sin música";
+"Success" = "Guardado exitosamente";
+"Copied" = "Copiado";
+"Done" = "Hecho";
+"NoFollows" = "No hay seguimientos";
+"FollowsYou" = "Te sigue";
+"DoesntFollowsYou" = "No te sigue";
+"Friends" = "Amigos";
+
+/* Passlock */
+"Authenticate" = "Autenticar";
+"IdentifyYourself" = "¡Autentíquese!";

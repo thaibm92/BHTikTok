@@ -1,0 +1,245 @@
+/* Headers */
+"Settings" = "الإعدادات";
+"Developer" = "مطور BHTikTok";
+"PlusDeveloper" = "مطور BHTikTok Plus";
+
+/* Main */
+"DownloadOptions" = "خيارات الحفظ";
+"FeedOptions" = "خيارات الرئيسية";
+"ProfileOptions" = "خيارات الملف الشخصي";
+"ConfirmationOptions" = "خيارات التأكيد";
+"RegionOptions" = "خيارات المنطقة";
+"FakeOptions" = "خيارات التزييف";
+"ColorOptions" = "خيارات المظهر";
+"OtherOptions" = "خيارات آخرى";
+"Apply" = "تطبيق التغييرات";
+
+/* Developer */
+"TipJar" = "تبرع";
+"DonateViaPayPal" = "عبر باي بال";
+"Donate" = "دعم المطور";
+"Telegram" = "قناتنا على تيليجرام";
+"Thanks" = "شكر خاص";
+"DonateMessage" = "إذا كنت تحب BHTikTok Plus وترغب في دعمي، فيمكنك شراء قهوة لي باستخدام أي من الطرق أدناه.\n\nشكرا❤️";
+"MaybeLater" = "ربما لاحقًا";
+"ThankYou" = "شكرًا";
+
+/* Download Options */
+"DownloadFeedHeader" = "الرئيسية";
+"DownloadVideos" = "حفظ الفيديو";
+"DownloadVideosDesc" = "يضيف خيار لحفظ مقاطع الفيديو بدون علامة مائية";
+"DownloadHDVideos" = "حفظ الفيديو بجودة عالية";
+"DownloadHDVideosDesc" = "يضيف خيار لحفظ الفيديو بجودة عالية بصيغة (H.265) ملاحظة : قد لا تكون هذه الصيغة متوافقة مع بعض التطبيقات";
+"DownloadMusics" = "حفظ الصوت";
+"DownloadMusicsDesc" = "يضيف خيار لحفظ الصوت من المنشورات";
+"CopyVideoDescription" = "نسخ وصف المنشور";
+"CopyVideoDescriptionDesc" = "يضيف خيار لنسخ وصف المنشور";
+"CopyVideosLink" = "نسخ رابط الفيديو";
+"CopyVideosLinkDesc" = "يضيف خيار لنسخ رابط الفيديو";
+"CopyMusicsLink" = "نسخ رابط الصوت";
+"CopyMusicsLinkDesc" = "يضيف خيار لنسخ رابط الصوت";
+"DownloadProfileHeader" = "الملف الشخصي";
+"SaveProfileImage" = "حفظ صورة الملف الشخصي";
+"SaveProfileImageDesc" = "يسمح بحفظ صورة الملف الشخصي عبر الضغط لفترة طويلة";
+"CopyProfileInformation" = "نسخ معلومات الملف الشخصي";
+"CopyProfileInformationDesc" = "يسمح بنسخ معلومات الملف الشخصي عند الضغط لفترة طويلة على صورة العرض أو @أسم_المستخدم";
+"DownloadedAction" = "إجراء ما بعد التحميل";
+"SaveToPhotos" = "حفظ في الصور";
+"ShowShareSheet" = "عرض قائمة المشاركة";
+"DownloadMenu" = "قائمة الحفظ";
+"CompactMenu" = "قائمة صغيرة";
+"OldMenu" = "القائمة القديمة";
+
+/* Feed Options */
+"Feed" = "الرئيسية";
+"NoAds" = "تعطيل الإعلانات";
+"NoAdsDesc" = "يزيل إعلانات الصفحة الرئيسية";
+"HideUI" = "إخفاء الواجهة";
+"HideUIDesc" = "يضيف خيار لإخفاء أزرار الواجهة";
+"UploadRegion" = "منطقة المنشور";
+"UploadRegionDesc" = "يعرض رمز أو علم منطقة المنشور";
+"ShowUsername" = "عرض أسم المستخدم بدلًا من الاسم المستعار";
+"ShowUsernameDesc" = "يعرض أسم المستخدم بدلا من الاسم المستعار، كما كان في الإصدارات القديمة";
+"TransparentComms" = "تعليقات شفافة";
+"TransparentCommsDesc" = "يجعل خلفية التعليقات شبه شفافة، مما يسمح لك بقراءة التعليقات أثناء مشاهدة المنشور";
+"ClearLinks" = "إزالة تتبع";
+"ClearLinksDesc" = "يزيل التتبع من الروابط المشاركة من حسابك";
+"SkipRecs" = "تخطي التوصيات";
+"SkipLive" = "تخطي البث المباشر";
+"ShowProgressBar" = " أظهر شريط التقدم دائمًا";
+"PlaybackAction" = "الإجراء بعد الانتهاء من تشغيل الفيديو";
+"Replay" = "تكرار";
+"Stop" = "توقف";
+"SkipToNext" = "أنتقل إلى التالي";
+"RegionStyle" = "مظهر خيارات المنطقة";
+"CountryFlag" = "علم البلد";
+"CountryCode" = "رمز البلد";
+"InNickname" = "أسم المستخدم";
+"TopRight" = "الزاوية العليا";
+"StartupPage" = "صفحة بدء التشغيل";
+"ForYou" = "لك";
+"Following" = "أتابعه";
+
+/* Profile Options */
+"FollowStatus" = "حالة المتابعة";
+"FollowStatusDesc" = "يعرض حالة المتابعة في الملف الشخصي";
+"VideoCount" = "عدد المنشورات";
+"VideoCountDesc" = "يعرض العدد الإجمالي للمنشورات في الملف الشخصي";
+"TotalVideoCount" = "عدد المنشورات: %@";
+"UploadDate" = "تاريخ رفع المنشور";
+"UploadDateDesc" = "يعرض تاريخ رفع المنشور على الصور المصغرة في الملف الشخصي";
+"ProfileLikeCount" = "عدد الإعجابات";
+"ProfileLikeCountDesc" = "يعرض عدد الإعجابات على الصور المصغرة للمنشور في الملف الشخصي";
+"UnsensitiveContent" = "إخفاء التحذيرات";
+"UnsensitiveContentDesc" = "يزيل تحذير المحتوى الحساس من البثوث والمنشورات";
+"NoJustWatched" = "إخفاء \"شاهدته للتو\"";
+"NoJustWatchedDesc" = "يزيل ضبابية \"شاهدته للتو\" من الصورة المصغرة للمنشور";
+"ExtendBio" = "زيادة حد السيرة الذاتية";
+"ExtendBioDesc" = "يزيد من عدد الأحرف للسيرة الذاتية في الملف الشخصي إلى 222 حرف";
+"ExtendComment" = "زيادة حد التعليقات";
+"ExtendCommentDesc" = "يزيد من عدد الأحرف للتعليقات إلى 240 حرف";
+"UploadHD" = "رفع الفيديو بدقة عالية";
+"UploadHDDesc" = "إجبار التطبيق على قبول الفيديو بجودة عالية";
+
+/* Confirmation Options */
+"ConfirmLike" = "تأكيد الإعجاب";
+"ConfirmLikeDesc" = "يظهر نافذة تأكيد قبل الإعجاب بمنشور";
+"ConfirmCommentLike" = "تأكيد الإعجاب بتعليق";
+"ConfirmCommentLikeDesc" = "يظهر نافذة تأكيد قبل الإعجاب بتعليق";
+"ConfirmCommentDislike" = "تأكيد عدم الإعجاب بتعليق";
+"ConfirmCommentDislikeDesc" = "يظهر نافذة تأكيد قبل عدم الإعجاب بتعليق";
+"ConfirmFollow" = "تأكيد المتابعة";
+"ConfirmFollowDesc" = "يظهر نافذة تأكيد قبل المتابعة";
+
+/* Region Options */
+"EnableChangingRegion" = "تغيير المنطقة";
+"Regions" = "أختر منطقة";
+"SaudiArabia" = "السَعوديّة";
+"Taiwan" = "تايْوان";
+"HongKong" = "هونغ كونغ";
+"Macao" = "ماكاو";
+"Japan" = "اليابان";
+"SouthKorea" = "كوريا الجنوبية";
+"UnitedKingdom" = "المملكة المتحدة";
+"UnitedStates" = "الولايات المتحدة";
+"Australia" = "أستراليا";
+"Canada" = "كندا";
+"Argentina" = "الأَرْجَنْتين";
+"Philippines" = "الفِلِبّين";
+"Laos" = "لاوس";
+"Malaysia" = "ماليزِيا";
+"Thailand" = "تايلاندا";
+"Singapore" = "سِنْغافورة";
+"Indonesia" = "إنْدونيسِيا";
+"Vietnam" = "فيتْنام";
+"Anguilla" = "أنغويلا";
+"Panama" = "بَنَما";
+"Germany" = "ألمانيا";
+"Russia" = "روسِيا";
+"Belarus" = "بيلاروس";
+"Ukraine" = "أوكرانيا";
+"Kazakhstan" = "كازاخْسْتان";
+"France" = "فَرَنْسا";
+"Finland" = "فنلندا";
+"Italy" = "إيطاليا";
+"Pakistan" = "باكِسْتان";
+"Denmark" = "الدانمارك";
+"Norway" = "النرويج";
+"Sudan" = "السودان";
+"Romania" = "رومانيا";
+"UnitedArabEmirates" = "الإمارات";
+"Egypt" = "مصر";
+"Lebanon" = "لبنان";
+"Mexico" = "المكسيك";
+"Brazil" = "البرازيل";
+"Turkey" = "تُرْكِيا";
+"Kuwait" = "الكُوَيْت";
+"Algeria" = "الجَزائِر";
+"Senegal" = "السينغال";
+"Switzerland" = "سويسرا";
+"Albania" = "ألبانيا";
+"Moldova" = "مولدوفا";
+"Croatia" = "كرواتيا";
+"Morocco" = "المغرب";
+"Yemen" = "اليَمَن";
+"Turkmenistan" = "تُرْكْمانِسْتان";
+"Uzbekistan" = "أوزْبِكِسْتان";
+"Azerbaijan" = "أَذَرْبَيْجان";
+
+/* Fake Options */
+"FakeBlueMark" = "شارة التوثيق المزيفة";
+"EnableFakeOptions" = "متابعات/إعجابات مزيفة";
+"FollowerCount" = "عدد من يتابعك";
+"FollowingCount" = "عدد من تتابع";
+"LikeCount" = "عدد الإعجابات";
+"EnterNumber" = "أدخل رقم";
+"FakeDesc" = "اترك الحقول فارغة لإظهار القيم الأصلية. هذه التغييرات مرئية لك فقط";
+
+/* Color Options */
+"NicknameColor" = "تغيير لون أسم المستخدم";
+"NicknameColorDesc" = "يقوم بتغيير لون أسم المستخدم في الصفحة الرئيسية";
+"NicknameColorGlobal" = "تفعيل على جميع الأسماء";
+"NicknameColorGlobalDesc" = "يقوم بتغيير لون أسم المستخدم في جميع أنحاء التطبيق";
+"CommentColor" =  "تغيير لون التعليق";
+"CommentColorDesc" =  "يقوم بتغيير ألوان التعليقات ووصف المنشور";
+"SelectColor" = "أختر لون";
+"ProfileTextShadow" = "إظهار ظل على الصور المصغرة";
+"ProfileTextShadowDesc" = "يظهر ظل خفيف خلف الإحصاءات على الصور المصغرة للمنشور في الملف الشخصي";
+"NicknameTextShadow" = "إظهار ظل خلف أسم المستخدم";
+"NicknameTextShadowDesc" = "يظهر ظل خلف أسماء المستخدمين في الصفحة الرئيسية";
+"NicknameGlobalShadow" = "تفعيل على جميع أسماء المستخدمين";
+"NicknameGlobalShadowDesc" = "يظهر ظل خلف أسماء المستخدمين في جميع أنحاء التطبيق. يجب تفعيل \"%@\" ليظهر الظل ";
+
+/* Other */
+"BHButtonPlacement" = "وضع زر الإعدادات";
+"InProfile" = "في الملف الشخصي";
+"InSettings" = "في الإعدادات";
+"Padlock" = "قفل التطبيق";
+"PadlockDesc" = "يظهر نافذة رمز المرور لفتح قفل التطبيق";
+"Cache" = "مسح ذاكرة التخزين المؤقت";
+"Cleared" = "تم\nمسح %@";
+
+/* Special Thanks */
+"Arabic" = "ترجمها إلى العربية";
+"ChineseSimplified" = "ترجمها إلى الصينية المبسطة";
+"ChineseTraditional" = "ترجمها الى الصينية التقليدية";
+"Spanish" = "ترجمها إلى الإسبانية";
+"French" = "ترجمها إلى الفرنسية";
+
+/* Pop-ups And Other Stuff */
+"BHTikTokSettings" = "BHTikTok Plus إعدادات";
+"AreYouSure" = "هل أنت متأكد؟";
+"ActionFollow" = "متابعة";
+"ActionLike" = "إعجاب";
+"ActionDislike" = "عدم إعجاب";
+"ConfirmAction" = "تأكيد الإجراء";
+"Yes" = "نعم";
+"No" = "لا";
+"Confirm" = "تأكيد";
+"Cancel" = "إلغاء";
+"Downloading" = "جاري الحفظ";
+"DownloadVideo" = "حفظ الفيديو";
+"DownloadHDVideo" = "حفظ الفيديو بجودة عالية";
+"DownloadMusic" = "حفظ الصوت";
+"CopyMusicLink" = "نسخ رابط الصوت";
+"CopyVideoLink" = "نسخ رابط الفيديو";
+"DownloadThisPhoto" = "حفظ هذه الصورة";
+"DownloadAllPhotos" = "حفظ جميع الصور";
+"CopyDescription" = "نسخ الوصف";
+"WhatToCopy" = "حدد إجراء";
+"CopySocialName" = "نسخ @اسم_المستخدم";
+"CopyNickName" = "نسخ الاسم";
+"CopyBio" = "نسخ السيرة الذاتية";
+"CopyBioURL" = "نسخ رابط السيرة الذاتية";
+"VidNoMusic" = "الفيديو لا يحتوي على موسيقى";
+"Success" = "تم حفظه";
+"Copied" = "تم نسخه";
+"Done" = "تم";
+"NoFollows" = "لا توجد بينكم متابعة";
+"FollowsYou" = "يتابعك";
+"DoesntFollowsYou" = "لا يتابعك";
+"Friends" = "أصدقاء";
+
+/* Passlock */
+"Authenticate" = "المصادقة";
+"IdentifyYourself" = "أثبت هويتك";

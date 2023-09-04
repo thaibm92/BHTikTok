@@ -1,0 +1,244 @@
+/* Headers */
+"Settings" = "设置";
+"Developer" = "BHTikTok 开发者";
+"PlusDeveloper" = "BHTikTok Plus 开发者";
+
+/* Main */
+"DownloadOptions" = "下载选项";
+"FeedOptions" = "视频选项";
+"ProfileOptions" = "个人主页";
+"ConfirmationOptions" = "确认提示";
+"RegionOptions" = "国家区域";
+"FakeOptions" = "伪造信息";
+"ColorOptions" = "外观选项";
+"OtherOptions" = "其他选项";
+"Apply" = "应用更改";
+
+/* Developer */
+"TipJar" = "捐赠开发";
+"DonateViaPayPal" = "通过PayPal捐赠";
+"Donate" = "支持开发者";
+"Telegram" = "我们的Telegram频道";
+"Thanks" = "特别感谢";
+"DonateMessage" = "如果你喜欢BHTikTok Plus并想支持我，你可以用下面任何方式给我买杯咖啡。\n\n感谢❤️";
+"MaybeLater" = "也许以后";
+"ThankYou" = "感谢";
+
+/* Download Options */
+"DownloadFeedHeader" = "视频流";
+"DownloadVideos" = "下载视频";
+"DownloadVideosDesc" = "添加一个按钮下载不带水印的视频";
+"DownloadHDVideos" = "下载高清视频";
+"DownloadHDVideosDesc" = "添加下载高清(H.265)视频的选项。注意：此格式可能与某些应用程序不兼容。";
+"DownloadMusics" = "下载音乐";
+"DownloadMusicsDesc" = "添加一个按钮从视频中下载音乐";
+"CopyVideoDescription" = "复制视频文案";
+"CopyVideoDescriptionDesc" = "添加复制视频文案的按钮";
+"CopyVideosLink" = "复制视频链接";
+"CopyVideosLinkDesc" = "添加复制视频链接的按钮";
+"CopyMusicsLink" = "复制音乐链接";
+"CopyMusicsLinkDesc" = "添加复制音乐链接的按钮";
+"DownloadProfileHeader" = "个人主页";
+"SaveProfileImage" = "保存头像照片";
+"SaveProfileImageDesc" = "点开头像后允许长按下载头像照片";
+"CopyProfileInformation" = "复制个人信息";
+"CopyProfileInformationDesc" = "允许长按“头像或@用户名”复制个人信息";
+"DownloadedAction" = "下载后操作";
+"SaveToPhotos" = "保存到照片";
+"ShowShareSheet" = "显示分享面板";
+"DownloadMenu" = "下载菜单样式";
+"CompactMenu" = "袖珍";
+"OldMenu" = "TikTok";
+
+/* Feed Options */
+"Feed" = "选项";
+"NoAds" = "禁用广告";
+"NoAdsDesc" = "删除应用内广告";
+"HideUI" = "清屏模式";
+"HideUIDesc" = "添加一个按钮“隐藏/显示”界面按钮";
+"UploadRegion" = "显示上传国家/地区";
+"UploadRegionDesc" = "在昵称旁边显示视频的上传“国家/地区”标志";
+"ShowUsername" = "显示用户名而非昵称";
+"ShowUsernameDesc" = "就像在旧版本中一样，显示用户名而不是昵称。";
+"TransparentComms" = "半透明评论";
+"TransparentCommsDesc" = "使评论窗口的背景半透明，允许在观看视频时阅读评论。";
+"ClearLinks" = "删除跟踪参数";
+"ClearLinksDesc" = "从您分享的链接中删除跟踪参数";
+"SkipRecs" = "跳过推荐";
+"SkipLive" = "跳过直播";
+"ShowProgressBar" = "显示进度条";
+"PlaybackAction" = "视频播放完成后的操作";
+"Replay" = "重播";
+"Stop" = "停止";
+"SkipToNext" = "跳到下一个";
+"RegionStyle" = "区域格式和位置";
+"CountryFlag" = "国家标志";
+"CountryCode" = "国家代码";
+"InNickname" = "昵称";
+"TopRight" = "右上角";
+"StartupPage" = "启动页";
+"ForYou" = "推荐";
+"Following" = "已关注";
+
+/* Profile Options */
+"FollowStatus" = "关注状态";
+"FollowStatusDesc" = "在个人主页中显示关注状态";
+"VideoCount" = "视频统计";
+"VideoCountDesc" = "在个人主页显示用户上载的视频总数";
+"TotalVideoCount" = "视频: %@";
+"UploadDate" = "视频上传日期";
+"UploadDateDesc" = "在个人主页中的视频缩略图上显示上传日期";
+"ProfileLikeCount" = "视频点赞数";
+"ProfileLikeCountDesc" = "在个人主页中的视频缩略图上显示点赞数";
+"UnsensitiveContent" = "不敏感的内容";
+"UnsensitiveContentDesc" = "删除敏感内容警告";
+"NoJustWatched" = "删除“刚刚观看”";
+"NoJustWatchedDesc" = "删除视频缩略图中的“刚刚观看”";
+"ExtendBio" = "扩展个人简介";
+"ExtendBioDesc" = "将个人简介的字符限制增加到222";
+"ExtendComment" = "扩展评论限制";
+"ExtendCommentDesc" = "将评论的字符限制增加到240";
+"UploadHD" = "始终上传高清视频";
+"UploadHDDesc" = "强制上传高清视频";
+
+/* Confirmation Options */
+"ConfirmLike" = "确认点赞";
+"ConfirmLikeDesc" = "点赞视频前需要确认";
+"ConfirmCommentLike" = "确认评论点赞";
+"ConfirmCommentLikeDesc" = "点赞评论前需要确认";
+"ConfirmCommentDislike" = "确认评论不喜欢";
+"ConfirmCommentDislikeDesc" = "不喜欢评论前需要确认";
+"ConfirmFollow" = "确认关注";
+"ConfirmFollowDesc" = "在关注用户之前需要确认";
+
+/* Region Options */
+"EnableChangingRegion" = "更改区域";
+"Regions" = "区域";
+"SaudiArabia" = "沙特阿拉伯";
+"Taiwan" = "中国台湾";
+"HongKong" = "中国香港";
+"Macao" = "中国澳门";
+"Japan" = "日本";
+"SouthKorea" = "韩国";
+"UnitedKingdom" = "英国";
+"UnitedStates" = "美国";
+"Australia" = "澳大利亚";
+"Canada" = "加拿大";
+"Argentina" = "阿根廷";
+"Philippines" = "菲律宾";
+"Laos" = "老挝";
+"Malaysia" = "马来西亚";
+"Thailand" = "泰国";
+"Singapore" = "新加坡";
+"Indonesia" = "印度尼西亚";
+"Vietnam" = "越南";
+"Anguilla" = "安圭拉";
+"Panama" = "巴拿马";
+"Germany" = "德国";
+"Russia" = "俄罗斯联邦";
+"Belarus" = "白俄罗斯";
+"Ukraine" = "乌克兰";
+"Kazakhstan" = "哈萨克斯坦";
+"France" = "法国";
+"Finland" = "芬兰";
+"Italy" = "意大利";
+"Pakistan" = "巴基斯坦";
+"Denmark" = "丹麦";
+"Norway" = "挪威";
+"Sudan" = "苏丹";
+"Romania" = "罗马尼亚";
+"UnitedArabEmirates" = "阿拉伯联合酋长国";
+"Egypt" = "埃及";
+"Lebanon" = "黎巴嫩";
+"Mexico" = "墨西哥";
+"Brazil" = "巴西";
+"Turkey" = "土耳其";
+"Kuwait" = "科威特";
+"Algeria" = "阿尔及利亚";
+"Senegal" = "塞内加尔";
+"Switzerland" = "瑞士";
+"Albania" = "阿尔巴尼亚";
+"Moldova" = "摩尔多瓦";
+"Croatia" = "克罗地亚";
+"Morocco" = "摩洛哥";
+"Yemen" = "也门";
+"Turkmenistan" = "土库曼斯坦";
+"Uzbekistan" = "乌兹别克斯坦";
+"Azerbaijan" = "阿塞拜疆";
+
+/* Fake Options */
+"FakeBlueMark" = "伪造认证标记";
+"EnableFakeOptions" = "伪造关注/点赞";
+"FollowerCount" = "粉丝数";
+"FollowingCount" = "关注数";
+"LikeCount" = "点赞数";
+"EnterNumber" = "输入数字";
+"FakeDesc" = "字符留空显示原始值，这些更改仅对自己可见。";
+
+/* Color Options */
+"NicknameColor" = "更改昵称颜色";
+"NicknameColorDesc" = "更改视频流中昵称的颜色";
+"NicknameColorGlobal" = "颜色应用于所有昵称";
+"NicknameColorGlobalDesc" = "更改整个应用程序的昵称颜色，需要启用 \"%@\" 选项。";
+"CommentColor" = "更改评论颜色";
+"CommentColorDesc" = "更改评论和视频文案的颜色";
+"SelectColor" = "选择颜色";
+"ProfileTextShadow" = "将阴影应用于缩略图";
+"ProfileTextShadowDesc" = "将阴影应用于个人主页中视频缩略图的统计信息";
+"NicknameTextShadow" = "将阴影应用于昵称";
+"NicknameTextShadowDesc" = "将阴影应用于视频流中的昵称";
+"NicknameGlobalShadow" = "将阴影应用于所有昵称";
+"NicknameGlobalShadowDesc" = "将阴影应用于整个应用程序中的所有昵称，需要启用 \"%@\" 选项。";
+
+/* Other */
+"BHButtonPlacement" = "设置按钮位置";
+"InProfile" = "个人主页中";
+"InSettings" = "设置中";
+"Padlock" = "密码锁定";
+"PadlockDesc" = "需要密码才能解锁进入应用程序";
+"Cache" = "清除缓存";
+"Cleared" = "完成\n已清除 %@";
+
+/* Special Thanks */
+"Arabic" = "阿拉伯语本地化";
+"ChineseSimplified" = "简体中文本地化";
+"ChineseTraditional" = "繁体中文本地化";
+"Spanish" = "西班牙语本地化";
+
+/* Pop-ups And Other Stuff */
+"BHTikTokSettings" = "BHTikTok Plus";
+"AreYouSure" = "你确定吗？";
+"ActionFollow" = "关注";
+"ActionLike" = "喜欢";
+"ActionDislike" = "不喜欢";
+"ConfirmAction" = "确认操作";
+"Yes" = "是";
+"No" = "不";
+"Confirm" = "确认";
+"Cancel" = "取消";
+"Downloading" = "正在下载";
+"DownloadVideo" = "下载视频";
+"DownloadHDVideo" = "下载高清视频";
+"DownloadMusic" = "下载音乐";
+"DownloadThisPhoto" = "下载此图片";
+"DownloadAllPhotos" = "下载所有图片";
+"CopyMusicLink" = "复制音乐链接";
+"CopyVideoLink" = "复制视频链接";
+"CopyDescription" = "复制文案";
+"WhatToCopy" = "选择操作";
+"CopySocialName" = "复制用户名";
+"CopyNickName" = "复制昵称";
+"CopyBio" = "复制个人简介";
+"CopyBioURL" = "复制个人链接";
+"VidNoMusic" = "视频没有音乐";
+"Success" = "已保存";
+"Copied" = "已复制";
+"Done" = "完成";
+"NoFollows" = "没有关注";
+"FollowsYou" = "关注你";
+"DoesntFollowsYou" = "粉丝数";
+"Friends" = "朋友";
+
+/* Passlock */
+"Authenticate" = "验证";
+"IdentifyYourself" = "密码识别！";

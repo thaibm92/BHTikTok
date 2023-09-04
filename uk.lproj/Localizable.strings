@@ -1,0 +1,245 @@
+/* Headers */
+"Settings" = "Настройки";
+"Developer" = "Разработчик BHTikTok";
+"PlusDeveloper" = "Разработчик BHTikTok Plus";
+
+/* Main */
+"DownloadOptions" = "Загрузки";
+"FeedOptions" = "Новостная лента";
+"ProfileOptions" = "Профиль";
+"ConfirmationOptions" = "Подтверждение действий";
+"RegionOptions" = "Регион";
+"FakeOptions" = "Фейковые плюшки";
+"ColorOptions" = "Кастомизация";
+"OtherOptions" = "Другое";
+"Apply" = "Применить настройки";
+
+/* Developer */
+"TipJar" = "Угостить чашечкой кофе";
+"DonateViaPayPal" = "Задонатить на PayPal";
+"Donate" = "Поддержать проект";
+"Telegram" = "Наш Telegram-канал";
+"Thanks" = "Особая благодарность";
+"DonateMessage" = "Если вам понравился BHTikTok Plus или же вы просто хотели бы поддержать меня, то можете угостить чашечкой кофе любым подходящим ниже способом.\n\nСпасибо❤";
+"MaybeLater" = "Возможно, позже";
+"ThankYou" = "Спасибо";
+
+/* Download Options */
+"DownloadFeedHeader" = "Новостная лента";
+"DownloadVideos" = "Загружать видео";
+"DownloadVideosDesc" = "Добавляет кнопку загрузки видео без водяных знаков";
+"DownloadHDVideos" = "Загружать HD-видео";
+"DownloadHDVideosDesc" = "Добавляет опцию для загрузки видео в HD (H.265). Внимание: Данный формат может быть несовместим с некоторыми приложениями.";
+"DownloadMusics" = "Загружать аудио";
+"DownloadMusicsDesc" = "Добавляет кнопку загрузки музыку из видео";
+"CopyVideoDescription" = "Копировать описание видео";
+"CopyVideoDescriptionDesc" = "Добавляет кнопку для копирования описания видео";
+"CopyVideosLink" = "Копировать ссылку на видео";
+"CopyVideosLinkDesc" = "Добавляет кнопку для копирования ссылки на видео";
+"CopyMusicsLink" = "Копировать ссылку на аудио";
+"CopyMusicsLinkDesc" = "Добавляет кнопку для копирования ссылки на аудио";
+"DownloadProfileHeader" = "Профиль";
+"SaveProfileImage" = "Загружать фото профиля";
+"SaveProfileImageDesc" = "Позволяет скачивать фото профиля долгим нажатием по открытому фото";
+"CopyProfileInformation" = "Копировать описание профиля";
+"CopyProfileInformationDesc" = "Позволяет скопировать описание профиля долгим нажатием по фото или @адресу";
+"DownloadedAction" = "Действие по окончанию загрузки";
+"SaveToPhotos" = "Сохранить в «Фото»";
+"ShowShareSheet" = "Меню «Поделиться»";
+"DownloadMenu" = "Стиль меню загрузок";
+"CompactMenu" = "Компактный";
+"OldMenu" = "В стиле TikTok";
+
+/* Feed Options */
+"Feed" = "Новостная лента";
+"NoAds" = "Отключить рекламу";
+"NoAdsDesc" = "Удаляет рекламу внутри приложения";
+"HideUI" = "Чистый режим";
+"HideUIDesc" = "Добавляет кнопку для скрытия/отображения кнопок интерфейса";
+"UploadRegion" = "Отображать страну видео";
+"UploadRegionDesc" = "Отображает флаг страны, с которой было опубликовано видео, рядом с именем пользователя";
+"ShowUsername" = "Показывать @адрес вместо ника";
+"ShowUsernameDesc" = "Отображает имя пользователя, как это было в старых версиях, вместо никнейма";
+"TransparentComms" = "Полупрозрачные комментарии";
+"TransparentCommsDesc" = "Делает фон окна комментариев полупрозрачным, тем самым позволяет смотреть видео во время чтения комментариев";
+"ClearLinks" = "Подчищать ссылки";
+"ClearLinksDesc" = "Удаляет следы к вашему аккаунту из ссылок, сгенерированых через функцию «Поделиться»";
+"SkipRecs" = "Перелистывать «Возможно, вы знакомы»";
+"SkipLive" = "Перелистывать прямые трансляции";
+"ShowProgressBar" = "Отображать прогресс-бар";
+"PlaybackAction" = "Действие по окончанию видео";
+"Replay" = "Повторить";
+"Stop" = "Остановить";
+"SkipToNext" = "Следующее";
+"RegionStyle" = "Формат и расположение региона";
+"CountryFlag" = "Флаг страны";
+"CountryCode" = "Код страны";
+"InNickname" = "С никнеймом";
+"TopRight" = "В правом углу";
+"StartupPage" = "Начальная страница";
+"ForYou" = "Рекомендации";
+"Following" = "Подписки";
+
+/* Profile Options */
+"FollowStatus" = "Взаимная подписка";
+"FollowStatusDesc" = "Отображает состояние подписки в профилях пользователей";
+"VideoCount" = "Количество видео";
+"VideoCountDesc" = "Отображает общее количество загрузок в профилях пользователей";
+"TotalVideoCount" = "Публикаций: %@";
+"UploadDate" = "Дата загрузки";
+"UploadDateDesc" = "Отображает дату загрузки на эскизах видео";
+"ProfileLikeCount" = "Количество лайков";
+"ProfileLikeCountDesc" = "Отображает количество лайков на эскизах видео";
+"UnsensitiveContent" = "Отключить предупреждения";
+"UnsensitiveContentDesc" = "Отключает предупреждения и размытие обложек неприемлемого контента";
+"NoJustWatched" = "Скрыть «Только что смотрели»";
+"NoJustWatchedDesc" = "Убирает маску с текстом «Только что смотрели» с эскизов видео";
+"ExtendBio" = "Увеличить лимит описания";
+"ExtendBioDesc" = "Увеличивает лимит описания до 222 символов";
+"ExtendComment" = "Увеличить лимит комментариев";
+"ExtendCommentDesc" = "Увеличивает лимит комментария до 240 символов";
+"UploadHD" = "Всегда публиковать в HD";
+"UploadHDDesc" = "Принудительно публикует видео в HD-качестве";
+
+/* Confirmation Options */
+"ConfirmLike" = "Подтверждать лайк";
+"ConfirmLikeDesc" = "Потребует подтверждения перед тем, как поставится лайк";
+"ConfirmCommentLike" = "Подтверждать лайк комментария";
+"ConfirmCommentLikeDesc" = "Потребует подтверждения перед тем, как поставится лайк комментарию";
+"ConfirmCommentDislike" = "Подтверждать дизлайк комментария";
+"ConfirmCommentDislikeDesc" = "Потребует подтверждения перед тем, как поставится дизлайк комментарию";
+"ConfirmFollow" = "Подтверждать подписку";
+"ConfirmFollowDesc" = "Потребует подтверждения перед тем, как подписаться на пользователя";
+
+/* Region Options */
+"EnableChangingRegion" = "Сменить регион";
+"Regions" = "Регионы";
+"SaudiArabia" = "Саудовская Аравия";
+"Taiwan" = "Тайвань";
+"HongKong" = "Гонконг";
+"Macao" = "Макао";
+"Japan" = "Япония";
+"SouthKorea" = "Южная Корея";
+"UnitedKingdom" = "Великобритания";
+"UnitedStates" = "Соединенные Штаты";
+"Australia" = "Австралия";
+"Canada" = "Канада";
+"Argentina" = "Аргентина";
+"Philippines" = "Филиппины";
+"Laos" = "Лаос";
+"Malaysia" = "Малайзия";
+"Thailand" = "Таиланд";
+"Singapore" = "Сингапур";
+"Indonesia" = "Индонезия";
+"Vietnam" = "Вьетнам";
+"Anguilla" = "Ангилья";
+"Panama" = "Панама";
+"Germany" = "Германия";
+"Russia" = "Россия";
+"Belarus" = "Беларусь";
+"Ukraine" = "Украина";
+"Kazakhstan" = "Казахстан";
+"France" = "Франция";
+"Finland" = "Финляндия";
+"Italy" = "Италия";
+"Pakistan" = "Пакистан";
+"Denmark" = "Дания";
+"Norway" = "Норвегия";
+"Sudan" = "Судан";
+"Romania" = "Румыния";
+"UnitedArabEmirates" = "Объединенные Арабские Эмираты";
+"Egypt" = "Египет";
+"Lebanon" = "Ливан";
+"Mexico" = "Мексика";
+"Brazil" = "Бразилия";
+"Turkey" = "Турция";
+"Kuwait" = "Кувейт";
+"Algeria" = "Алжир";
+"Senegal" = "Сенегал";
+"Switzerland" = "Швейцария";
+"Albania" = "Албания";
+"Moldova" = "Молдова";
+"Croatia" = "Хорватия";
+"Morocco" = "Марокко";
+"Yemen" = "Йемен";
+"Turkmenistan" = "Туркменистан";
+"Uzbekistan" = "Узбекистан";
+"Azerbaijan" = "Азербайджан";
+
+/* Fake Options */
+"FakeBlueMark" = "Фейковая галочка";
+"EnableFakeOptions" = "Фейковые подписки/лайки";
+"FollowerCount" = "Число подписчиков";
+"FollowingCount" = "Число подписок";
+"LikeCount" = "Число лайков";
+"EnterNumber" = "Введите количество";
+"FakeDesc" = "Оставьте поля пустыми для возврата оригинальных значений. Данные изменения видны только вам";
+
+/* Color Options */
+"NicknameColor" = "Цветные никнеймы";
+"NicknameColorDesc" = "Меняет цвет никнеймов в ленте";
+"NicknameColorGlobal" = "Применить ко всем никнеймам";
+"NicknameColorGlobalDesc" = "Меняет цвет никнеймов по всему приложению. Требуется включение «%@»"; // %@ is NicknameColor
+"CommentColor" =  "Цветные комментарии";
+"CommentColorDesc" =  "Меняет цвет описаний роликов и комментариев";
+"SelectColor" = "Выберите цвет";
+"ProfileTextShadow" = "Применить тень к эскизам";
+"ProfileTextShadowDesc" = "Применяет тень к статистике на эскизах видео в профиле";
+"NicknameTextShadow" = "Применить тень к никнеймам";
+"NicknameTextShadowDesc" = "Применяет тень к никнеймам в новостной ленте";
+"NicknameGlobalShadow" = "Применить ко всем никнеймам";
+"NicknameGlobalShadowDesc" = "Применяет тень к никнеймам по всему приложению. Требуется включение «%@»"; // %@ is NicknameTextShadow
+
+/* Other */
+"BHButtonPlacement" = "Местоположение кнопки твика";
+"InProfile" = "В профиле";
+"InSettings" = "В настройках";
+"Padlock" = "Блокировка паролем";
+"PadlockDesc" = "Требует ввод пароля перед запуском приложения";
+"Cache" = "Очистить кэш";
+"Cleared" = "Готово\nОчищено %@";
+
+/* Thanks */
+"Arabic" = "Арабская локализация";
+"ChineseSimplified" = "Китайская (упрощенная) локализация";
+"ChineseTraditional" = "Китайская (традиционная) локализация";
+"Spanish" = "Испанская локализация";
+"French" = "Французская локализация";
+
+/* Pop-ups And Other Stuff */
+"BHTikTokSettings" = "Настройки BHTikTok Plus";
+"AreYouSure" = "Вы уверены?";
+"ActionFollow" = "Подписка";
+"ActionLike" = "Понравилось";
+"ActionDislike" = "Дизлайк";
+"ConfirmAction" = "Подтвердите действие";
+"Yes" = "Да";
+"No" = "Нет";
+"Confirm" = "Подтвердить";
+"Cancel" = "Отмена";
+"Downloading" = "Загрузка";
+"DownloadVideo" = "Скачать видео";
+"DownloadHDVideo" = "Скачать видео (HD)";
+"DownloadMusic" = "Скачать аудио";
+"CopyMusicLink" = "Скопировать ссылку на аудио";
+"CopyVideoLink" = "Скопировать ссылку на видео";
+"DownloadThisPhoto" = "Скачать данное фото";
+"DownloadAllPhotos" = "Скачать все фото";
+"CopyDescription" = "Скопировать описание";
+"WhatToCopy" = "Выберите действие";
+"CopySocialName" = "Скопировать @адрес";
+"CopyNickName" = "Скопировать имя";
+"CopyBio" = "Скопировать описание профиля";
+"CopyBioURL" = "Скопировать ссылку из профиля";
+"VidNoMusic" = "В видео отсутствует музыка";
+"Success" = "Сохранено";
+"Copied" = "Скопировано";
+"Done" = "Готово";
+"NoFollows" = "Нет подписок";
+"FollowsYou" = "Подписан(-а) на вас";
+"DoesntFollowsYou" = "Подписки";
+"Friends" = "Друзья";
+
+/* Passlock */
+"Authenticate" = "Аутентификация";
+"IdentifyYourself" = "Разблокировать";
