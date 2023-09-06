@@ -1,0 +1,245 @@
+/* Headers */
+"Settings" = "Cài Đặt";
+"Developer" = "Nhà phát triển BHTikTok";
+"PlusDeveloper" = "Nhà phát triển BHTikTok Plus";
+
+/* Main */
+"DownloadOptions" = "Tải xuống";
+"FeedOptions" = "Tuỳ chọn Feed";
+"ProfileOptions" = "Hồ sơ";
+"ConfirmationOptions" = "Xác nhận";
+"RegionOptions" = "Vùng";
+"FakeOptions" = "Giả mạo";
+"ColorOptions" = "Vẻ bề ngoài";
+"OtherOptions" = "Khác";
+"Apply" = "Áp dụng";
+
+/* Developer */
+"TipJar" = "Tip Jar";
+"DonateViaPayPal" = "Tặng qua PayPal";
+"Donate" = "Hỗ trợ nhà phát triển";
+"Telegram" = "Kênh Telegram của chúng tôi";
+"Thanks" = "Đặt biệt cảm ơn";
+"DonateMessage" = "Nếu bạn thích BHTikTok Plus và muốn ủng hộ tôi, bạn có thể mua cà phê cho tôi bằng bất kỳ cách thuận tiện nào dưới đây.\n\nCảm ơn❤";
+"MaybeLater" = "Có lẽ sau này";
+"ThankYou" = "Cảm ơn";
+
+/* Download Options */
+"DownloadFeedHeader" = "Hiển thị Feed";
+"DownloadVideos" = "Tải video";
+"DownloadVideosDesc" = "Thêm nút tải video không có hình mờ";
+"DownloadHDVideos" = "Tải xuống video HD";
+"DownloadHDVideosDesc" = "Thêm tùy chọn tải xuống video HD (H.265). Lưu ý: Định dạng này có thể không tương thích với một số ứng dụng";
+"DownloadMusics" = "Tải nhạc";
+"DownloadMusicsDesc" = "Thêm nút tải nhạc từ video";
+"CopyVideoDescription" = "Sao chép mô tả video";
+"CopyVideoDescriptionDesc" = "Thêm nút để sao chép mô tả video";
+"CopyVideosLink" = "Sao chép liên kết video";
+"CopyVideosLinkDesc" = "Thêm nút sao chép link video";
+"CopyMusicsLink" = "Sao chép liên kết nhạc";
+"CopyMusicsLinkDesc" = "Thêm nút copy link nhạc";
+"DownloadProfileHeader" = "Hồ sơ";
+"SaveProfileImage" = "Lưu ảnh hồ sơ";
+"SaveProfileImageDesc" = "Cho phép tải ảnh hồ sơ bằng cách nhấn giữ";
+"CopyProfileInformation" = "Sao chép thông tin hồ sơ";
+"CopyProfileInformationDesc" = "Cho phép sao chép mô tả hồ sơ bằng cách nhấn và giữ ảnh hoặc @username";
+"DownloadedAction" = "Hành động sau khi tải";
+"SaveToPhotos" = "Lưu vào ảnh";
+"ShowShareSheet" = "Hiển thị bảng chia sẻ";
+"DownloadMenu" = "Kiểu Memu Tải xuống";
+"CompactMenu" = "Gọn nhẹ";
+"OldMenu" = "TikTok";
+
+/* Feed Options */
+"Feed" = "Tuỳ chọn Feed";
+"NoAds" = "Không quảng cáo";
+"NoAdsDesc" = "Loại bỏ quảng cáo trong ứng dụng";
+"HideUI" = "Chế độ thuần";
+"HideUIDesc" = "Thêm nút để ẩn/hiện các nút giao diện";
+"UploadRegion" = "Hiển thị quốc gia tải lên";
+"UploadRegionDesc" = "Hiển thị cờ quốc gia tải lên của video bên cạnh tên người dùng";
+"ShowUsername" = "Hiển thị tên người dùng";
+"ShowUsernameDesc" = "Hiển thị tên người dùng thay vì biệt hiệu, như trong các phiên bản cũ hơn";
+"TransparentComms" = "Bình luận một nửa công khai";
+"TransparentCommsDesc" = "Làm nền của cửa sổ bình luận trở nên trong suốt, cho phép bạn đọc bình luận trong khi xem video";
+"ClearLinks" = "Xóa liên kết";
+"ClearLinksDesc" = "Xóa theo dõi khỏi các liên kết được chia sẻ từ tài khoản của bạn";
+"SkipRecs" = "Bỏ qua đề xuất";
+"SkipLive" = "Bỏ qua chương trình phát sóng trực tiếp";
+"ShowProgressBar" = "Hiển thị thanh tiến trình";
+"PlaybackAction" = "Hành động sau khi hoàn thành phát lại video";
+"Replay" = "Repeat";
+"Stop" = "Dừng lại";
+"SkipToNext" = "Chuyển sang phần tiếp theo";
+"RegionStyle" = "Định dạng và vị trí khu vực";
+"CountryFlag" = "Lá cờ Tổ quốc";
+"CountryCode" = "Mã quốc gia";
+"InNickname" = "Tên nick";
+"TopRight" = "Góc trên cùng bên phải";
+"StartupPage" = "Trang khởi động";
+"ForYou" = "Dành cho bạn";
+"Following" = "Đang Follow";
+
+/* Profile Options */
+"FollowStatus" = "Trạng thái theo dõi";
+"FollowStatusDesc" = "Hiển thị trạng thái đăng ký trong hồ sơ người dùng";
+"VideoCount" = "Số lượng video";
+"VideoCountDesc" = "Hiển thị tổng số lượt tải lên trong hồ sơ người dùng";
+"TotalVideoCount" = "Bài viết: %@"; // %@ là tổng số video (Bài viết: 25)
+"UploadDate" = "Ngày tải lên video";
+"UploadDateDesc" = "Hiển thị ngày tải lên trên hình thu nhỏ video trong hồ sơ người dùng";
+"ProfileLikeCount" = "Số lượt thích video";
+"ProfileLikeCountDesc" = "Hiển thị số lượt thích trên hình thu nhỏ của video trong hồ sơ người dùng";
+"UnsensitiveContent" = "Nội dung không nhạy cảm";
+"UnsensitiveContentDesc" = "Loại bỏ cảnh báo nội dung nhạy cảm";
+"NoJustWatched" = "Xóa \"Vừa xem\"";
+"NoJustWatchedDesc" = "Xóa mặt nạ \"Vừa xem\" khỏi hình thu nhỏ của video";
+"ExtendBio" = "Mở rộng giới hạn";
+"ExtendBioDesc" = "Tăng giới hạn ký tự cho mô tả hồ sơ lên 222";
+"ExtendComment" = "Mở rộng giới hạn bình luận";
+"ExtendCommentDesc" = "Tăng giới hạn ký tự cho bình luận lên 240";
+"UploadHD" = "Luôn tải lên ở chế độ HD";
+"UploadHDDesc" = "Buộc tải lên video ở chất lượng HD";
+
+/* Confirmation Options */
+"ConfirmLike" = "Xác nhận thích";
+"ConfirmLikeDesc" = "Yêu cầu xác nhận trước khi thích một bài viết";
+"ConfirmCommentLike" = "Xác nhận thích bình luận";
+"ConfirmCommentLikeDesc" = "Yêu cầu xác nhận trước khi thích bình luận";
+"ConfirmCommentDislike" = "Xác nhận bình luận Không thích";
+"ConfirmCommentDislikeDesc" = "Yêu cầu xác nhận trước khi không thích một bình luận";
+"ConfirmFollow" = "Xác nhận theo dõi";
+"ConfirmFollowDesc" = "Yêu cầu xác nhận trước khi theo dõi người dùng";
+
+/* Region Options */
+"EnableChangingRegion" = "Thay đổi khu vực";
+"Regions" = "Vùng";
+"SaudiArabia" = "Saudi Arabia";
+"Taiwan" = "Taiwan";
+"HongKong" = "Hong Kong";
+"Macao" = "Macao";
+"Japan" = "Japan";
+"SouthKorea" = "South Korea";
+"UnitedKingdom" = "United Kingdom";
+"UnitedStates" = "United States";
+"Australia" = "Australia";
+"Canada" = "Canada";
+"Argentina" = "Argentina";
+"Philippines" = "Philippines";
+"Laos" = "Laos";
+"Malaysia" = "Malaysia";
+"Thailand" = "Thailand";
+"Singapore" = "Singapore";
+"Indonesia" = "Indonesia";
+"Vietnam" = "Vietnam";
+"Anguilla" = "Anguilla";
+"Panama" = "Panama";
+"Germany" = "Germany";
+"Russia" = "Russia";
+"Belarus" = "Belarus";
+"Ukraine" = "Ukraine";
+"Kazakhstan" = "Kazakhstan";
+"France" = "France";
+"Finland" = "Finland";
+"Italy" = "Italy";
+"Pakistan" = "Pakistan";
+"Denmark" = "Denmark";
+"Norway" = "Norway";
+"Sudan" = "Sudan";
+"Romania" = "Romania";
+"UnitedArabEmirates" = "United Arab Emirates";
+"Egypt" = "Egypt";
+"Lebanon" = "Lebanon";
+"Mexico" = "Mexico";
+"Brazil" = "Brazil";
+"Turkey" = "Turkey";
+"Kuwait" = "Kuwait";
+"Algeria" = "Algeria";
+"Senegal" = "Senegal";
+"Switzerland" = "Switzerland";
+"Albania" = "Albania";
+"Moldova" = "Moldova";
+"Croatia" = "Croatia";
+"Morocco" = "Morocco";
+"Yemen" = "Yemen";
+"Turkmenistan" = "Turkmenistan";
+"Uzbekistan" = "Uzbekistan";
+"Azerbaijan" = "Azerbaijan";
+
+/* Fake Options */
+"FakeBlueMark" = "Huy hiệu xác minh giả";
+"EnableFakeOptions" = "Đăng ký/Thích giả mạo";
+"FollowerCount" = "Số lượng người theo dõi";
+"FollowingCount" = "Số lượt theo dõi";
+"LikeCount" = "Số lượt thích";
+"EnterNumber" = "Nhập một số";
+"FakeDesc" = "Để trống các trường để hiển thị giá trị ban đầu. Những thay đổi này chỉ hiển thị với bạn";
+
+/* Color Options */
+"NicknameColor" = "Thay đổi màu biệt danh";
+"NicknameColorDesc" = "Thay đổi màu của biệt hiệu trong nguồn cấp dữ liệu";
+"NicknameColorGlobal" = "Áp dụng cho tất cả biệt danh";
+"NicknameColorGlobalDesc" = "Thay đổi màu biệt hiệu trong suốt ứng dụng. Cần bật tùy chọn \"%@\""; // %@ là NicknameColor
+"CommentColor" =  "Thay đổi màu bình luận";
+"CommentColorDesc" =  "Thay đổi màu sắc của nhận xét và mô tả video";
+"SelectColor" = "Chọn màu";
+"ProfileTextShadow" = "Áp dụng bóng cho hình thu nhỏ";
+"ProfileTextShadowDesc" = "Áp dụng bóng cho số liệu thống kê về hình thu nhỏ video trong cấu hình";
+"NicknameTextShadow" = "Áp dụng bóng cho biệt danh";
+"NicknameTextShadowDesc" = "Áp dụng bóng cho biệt hiệu trong nguồn cấp dữ liệu";
+"NicknameGlobalShadow" = "Áp dụng cho tất cả biệt danh";
+"NicknameGlobalShadowDesc" = "Áp dụng bóng cho biệt hiệu trong suốt ứng dụng. Cần bật tùy chọn \"%@\""; // %@ là NicknameTextShadow
+
+/* Other */
+"BHButtonPlacement" = "Vị trí nút cài đặt";
+"InProfile" = "Trong hồ sơ cá nhân";
+"InSettings" = "Trong phần cài đặt";
+"Padlock" = "Khóa mật mã";
+"PadlockDesc" = "Yêu cầu mật mã để mở khóa ứng dụng";
+"Cache" = "Xóa bộ nhớ đệm";
+"Cleared" = "Xong\nĐã xóa %@";
+
+/* Special Thanks */
+"Arabic" = "Bản địa hóa tiếng Ả Rập";
+"ChineseSimplified" = "Bản địa hóa tiếng Trung giản thể";
+"ChineseTraditional" = "Bản địa hóa truyền thống của Trung Quốc";
+"Spanish" = "Bản địa hóa tiếng Tây Ban Nha";
+"French" = "Bản địa hóa tiếng Pháp";
+
+/* Pop-ups And Other Stuff */
+"BHTikTokSettings" = "BHTikTok Plus";
+"AreYouSure" = "Bạn có chắc không?";
+"ActionFollow" = "Theo dõi";
+"ActionLike" = "Thích";
+"ActionDislike" = "Không thích";
+"ConfirmAction" = "Xác nhận hành động";
+"Yes" = "Có";
+"No" = "Không";
+"Confirm" = "Xác nhận";
+"Cancel" = "Huỷ bỏ";
+"Downloading" = "Đang tải xuống";
+"DownloadVideo" = "Tải video";
+"DownloadHDVideo" = "Tải xuống video HD";
+"DownloadMusic" = "Tải nhạc";
+"DownloadThisPhoto" = "Tải ảnh này xuống";
+"DownloadAllPhotos" = "Tải xuống tất cả ảnh";
+"CopyMusicLink" = "Sao chép liên kết nhạc";
+"CopyVideoLink" = "Sao chép liên kết video";
+"CopyDescription" = "Sao chép mô tả";
+"WhatToCopy" = "Chọn một hành động";
+"CopySocialName" = "Sao chép @tennguoidung";
+"CopyNickName" = "Sao chép tên";
+"CopyBio" = "Sao chép tiểu sử";
+"CopyBioURL" = "Sao chép URL hồ sơ";
+"VidNoMusic" = "Video không có nhạc";
+"Success" = "Đã lưu";
+"Copied" = "Đã sao chép";
+"Done" = "Hoàn thành";
+"NoFollows" = "Không theo dõi";
+"FollowsYou" = "Theo dõi bạn";
+"DoesntFollowsYou" = "Không theo dõi bạn";
+"Friends" = "Bạn bè";
+
+/* Passlock */
+"Authenticate" = "Xác thực";
+"IdentifyYourself" = "Xác định chính mình!";
