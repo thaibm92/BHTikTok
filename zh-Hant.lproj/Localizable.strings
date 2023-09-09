@@ -38,8 +38,8 @@
 "CopyVideosLinkDesc" = "新增一個複製影片連結的按鈕";
 "CopyMusicsLink" = "複製音樂連結";
 "CopyMusicsLinkDesc" = "新增一個複製音樂連結的按鈕";
-"RemoveWatermark" = "Disable Watermarks";
-"RemoveWatermarkDesc" = "Useful if you want to download videos without watermarks from the standard TikTok menu";
+"RemoveWatermark" = "停用浮水印";
+"RemoveWatermarkDesc" = "若您想從標準 TikTok 選單中下載無浮水印的影片，此功能非常實用";
 "DownloadProfileHeader" = "個人資料";
 "SaveProfileImage" = "儲存使用者頭像";
 "SaveProfileImageDesc" = "長按下載使用者頭像";
@@ -208,7 +208,7 @@
 "ChineseTraditional" = "繁體中文本地化";
 "Spanish" = "西班牙語本地化";
 "French" = "法語本地化";
-"Vietnamese" = "Vietnamese localization";
+"Vietnamese" = "越南語本地化";
 
 /* Pop-ups And Other Stuff */
 "BHTikTokSettings" = "BHTikTok Plus";
@@ -229,8 +229,8 @@
 "CopyVideoLink" = "複製影片連結";
 "DownloadThisPhoto" = "下載這張照片";
 "DownloadAllPhotos" = "下載所有照片";
-"DownloadProfileImage" = "Download Profile Image";
-"StaticImagesOnly" = "Static Images Only";
+"DownloadProfileImage" = "下載個人資料照片";
+"StaticImagesOnly" = "僅限靜態圖片";
 "CopyDescription" = "複製描述";
 "WhatToCopy" = "選擇操作";
 "CopySocialName" = "複製 @使用者名稱";
