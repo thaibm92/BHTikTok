@@ -38,8 +38,8 @@
 "CopyVideosLinkDesc" = "添加复制视频链接的按钮";
 "CopyMusicsLink" = "复制音乐链接";
 "CopyMusicsLinkDesc" = "添加复制音乐链接的按钮";
-"RemoveWatermark" = "Disable Watermarks";
-"RemoveWatermarkDesc" = "Useful if you want to download videos without watermarks from the standard TikTok menu";
+"RemoveWatermark" = "禁用水印";
+"RemoveWatermarkDesc" = "可以下载没有水印的视频";
 "DownloadProfileHeader" = "个人主页";
 "SaveProfileImage" = "保存头像照片";
 "SaveProfileImageDesc" = "点开头像后允许长按下载头像照片";
@@ -207,8 +207,8 @@
 "ChineseSimplified" = "简体中文本地化";
 "ChineseTraditional" = "繁体中文本地化";
 "Spanish" = "西班牙语本地化";
-"French" = "French localization";
-"Vietnamese" = "Vietnamese localization";
+"French" = "法语本地化";
+"Vietnamese" = "越南语本地化";
 
 /* Pop-ups And Other Stuff */
 "BHTikTokSettings" = "BHTikTok Plus";
@@ -227,8 +227,8 @@
 "DownloadMusic" = "下载音乐";
 "DownloadThisPhoto" = "下载此图片";
 "DownloadAllPhotos" = "下载所有图片";
-"DownloadProfileImage" = "Download Profile Image";
-"StaticImagesOnly" = "Static Images Only";
+"DownloadProfileImage" = "下载头像";
+"StaticImagesOnly" = "仅静态图片";
 "CopyMusicLink" = "复制音乐链接";
 "CopyVideoLink" = "复制视频链接";
 "CopyDescription" = "复制文案";
@@ -248,4 +248,4 @@
 
 /* Passlock */
 "Authenticate" = "验证";
-"IdentifyYourself" = "密码识别！";
+"IdentifyYourself" = "输入密码！";
