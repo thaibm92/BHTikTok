@@ -38,6 +38,8 @@
 "CopyVideosLinkDesc" = "Adds a button to copy video links";
 "CopyMusicsLink" = "Copy Music Link";
 "CopyMusicsLinkDesc" = "Adds a button to copy music links";
+"RemoveWatermark" = "Disable Watermarks";
+"RemoveWatermarkDesc" = "Useful if you want to download videos without watermarks from the standard TikTok menu";
 "DownloadProfileHeader" = "Profile";
 "SaveProfileImage" = "Save Profile Photos";
 "SaveProfileImageDesc" = "Allows downloading profile photos by long press";
@@ -165,6 +167,7 @@
 "Turkmenistan" = "Turkmenistan";
 "Uzbekistan" = "Uzbekistan";
 "Azerbaijan" = "Azerbaijan";
+"Netherlands" = "Netherlands";
 
 /* Fake Options */
 "FakeBlueMark" = "Fake Verification Badge";
@@ -205,6 +208,7 @@
 "ChineseTraditional" = "Traditional Chinese localization";
 "Spanish" = "Spanish localization";
 "French" = "French localization";
+"Vietnamese" = "Vietnamese localization";
 
 /* Pop-ups And Other Stuff */
 "BHTikTokSettings" = "BHTikTok Plus";
@@ -223,6 +227,8 @@
 "DownloadMusic" = "Download Music";
 "DownloadThisPhoto" = "Download This Photo";
 "DownloadAllPhotos" = "Download All Photos";
+"DownloadProfileImage" = "Download Profile Image";
+"StaticImagesOnly" = "Static Images Only";
 "CopyMusicLink" = "Copy Music Link";
 "CopyVideoLink" = "Copy Video Link";
 "CopyDescription" = "Copy Description";

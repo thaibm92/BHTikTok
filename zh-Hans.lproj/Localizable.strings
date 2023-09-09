@@ -38,6 +38,8 @@
 "CopyVideosLinkDesc" = "添加复制视频链接的按钮";
 "CopyMusicsLink" = "复制音乐链接";
 "CopyMusicsLinkDesc" = "添加复制音乐链接的按钮";
+"RemoveWatermark" = "Disable Watermarks";
+"RemoveWatermarkDesc" = "Useful if you want to download videos without watermarks from the standard TikTok menu";
 "DownloadProfileHeader" = "个人主页";
 "SaveProfileImage" = "保存头像照片";
 "SaveProfileImageDesc" = "点开头像后允许长按下载头像照片";
@@ -165,6 +167,7 @@
 "Turkmenistan" = "土库曼斯坦";
 "Uzbekistan" = "乌兹别克斯坦";
 "Azerbaijan" = "阿塞拜疆";
+"Netherlands" = "荷兰";
 
 /* Fake Options */
 "FakeBlueMark" = "伪造认证标记";
@@ -204,6 +207,8 @@
 "ChineseSimplified" = "简体中文本地化";
 "ChineseTraditional" = "繁体中文本地化";
 "Spanish" = "西班牙语本地化";
+"French" = "French localization";
+"Vietnamese" = "Vietnamese localization";
 
 /* Pop-ups And Other Stuff */
 "BHTikTokSettings" = "BHTikTok Plus";
@@ -222,6 +227,8 @@
 "DownloadMusic" = "下载音乐";
 "DownloadThisPhoto" = "下载此图片";
 "DownloadAllPhotos" = "下载所有图片";
+"DownloadProfileImage" = "Download Profile Image";
+"StaticImagesOnly" = "Static Images Only";
 "CopyMusicLink" = "复制音乐链接";
 "CopyVideoLink" = "复制视频链接";
 "CopyDescription" = "复制文案";

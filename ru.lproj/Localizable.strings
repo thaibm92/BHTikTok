@@ -38,6 +38,8 @@
 "CopyVideosLinkDesc" = "Добавляет кнопку для копирования ссылки на видео";
 "CopyMusicsLink" = "Копировать ссылку на аудио";
 "CopyMusicsLinkDesc" = "Добавляет кнопку для копирования ссылки на аудио";
+"RemoveWatermark" = "Отключить водяные знаки";
+"RemoveWatermarkDesc" = "Полезно, если вы хотите загружать видео без водяных знаков из стандартного меню TikTok";
 "DownloadProfileHeader" = "Профиль";
 "SaveProfileImage" = "Загружать фото профиля";
 "SaveProfileImageDesc" = "Позволяет скачивать фото профиля долгим нажатием по открытому фото";
@@ -165,6 +167,7 @@
 "Turkmenistan" = "Туркменистан";
 "Uzbekistan" = "Узбекистан";
 "Azerbaijan" = "Азербайджан";
+"Netherlands" = "Нидерланды";
 
 /* Fake Options */
 "FakeBlueMark" = "Фейковая галочка";
@@ -205,6 +208,7 @@
 "ChineseTraditional" = "Китайская (традиционная) локализация";
 "Spanish" = "Испанская локализация";
 "French" = "Французская локализация";
+"Vietnamese" = "Вьетнамская локализация";
 
 /* Pop-ups And Other Stuff */
 "BHTikTokSettings" = "Настройки BHTikTok Plus";
@@ -225,6 +229,8 @@
 "CopyVideoLink" = "Скопировать ссылку на видео";
 "DownloadThisPhoto" = "Скачать данное фото";
 "DownloadAllPhotos" = "Скачать все фото";
+"DownloadProfileImage" = "Скачать фото профиля";
+"StaticImagesOnly" = "Только статические изображения";
 "CopyDescription" = "Скопировать описание";
 "WhatToCopy" = "Выберите действие";
 "CopySocialName" = "Скопировать @адрес";

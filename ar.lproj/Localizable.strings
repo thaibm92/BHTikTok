@@ -38,6 +38,8 @@
 "CopyVideosLinkDesc" = "يضيف خيار لنسخ رابط الفيديو";
 "CopyMusicsLink" = "نسخ رابط الصوت";
 "CopyMusicsLinkDesc" = "يضيف خيار لنسخ رابط الصوت";
+"RemoveWatermark" = "Disable Watermarks";
+"RemoveWatermarkDesc" = "Useful if you want to download videos without watermarks from the standard TikTok menu";
 "DownloadProfileHeader" = "الملف الشخصي";
 "SaveProfileImage" = "حفظ صورة الملف الشخصي";
 "SaveProfileImageDesc" = "يسمح بحفظ صورة الملف الشخصي عبر الضغط لفترة طويلة";
@@ -165,6 +167,7 @@
 "Turkmenistan" = "تُرْكْمانِسْتان";
 "Uzbekistan" = "أوزْبِكِسْتان";
 "Azerbaijan" = "أَذَرْبَيْجان";
+"Netherlands" = "هولندا";
 
 /* Fake Options */
 "FakeBlueMark" = "شارة التوثيق المزيفة";
@@ -205,6 +208,7 @@
 "ChineseTraditional" = "ترجمها الى الصينية التقليدية";
 "Spanish" = "ترجمها إلى الإسبانية";
 "French" = "ترجمها إلى الفرنسية";
+"Vietnamese" = "Vietnamese localization";
 
 /* Pop-ups And Other Stuff */
 "BHTikTokSettings" = "BHTikTok Plus إعدادات";
@@ -225,6 +229,8 @@
 "CopyVideoLink" = "نسخ رابط الفيديو";
 "DownloadThisPhoto" = "حفظ هذه الصورة";
 "DownloadAllPhotos" = "حفظ جميع الصور";
+"DownloadProfileImage" = "Download Profile Image";
+"StaticImagesOnly" = "Static Images Only";
 "CopyDescription" = "نسخ الوصف";
 "WhatToCopy" = "حدد إجراء";
 "CopySocialName" = "نسخ @اسم_المستخدم";

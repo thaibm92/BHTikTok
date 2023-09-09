@@ -7,7 +7,7 @@
 "DownloadOptions" = "下載";
 "FeedOptions" = "動態";
 "ProfileOptions" = "個人資料";
-"ConfirmationOptions" = "確認";
+"ConfirmationOptions" = "確認提醒";
 "RegionOptions" = "國家/地區";
 "FakeOptions" = "偽裝";
 "ColorOptions" = "外觀";
@@ -17,7 +17,7 @@
 /* Developer */
 "TipJar" = "贊助開發";
 "DonateViaPayPal" = "透過 PayPal 贊助";
-"Donate" = "贊助開發";
+"Donate" = "支持開發者";
 "Telegram" = "我們的 Telegram 頻道";
 "Thanks" = "特別感謝";
 "DonateMessage" = "如果您喜歡 BHTikTok Plus 並想支持我，可以透過以下任一方式為我買杯咖啡。\n\n謝謝❤";
@@ -31,13 +31,15 @@
 "DownloadHDVideos" = "下載高畫質影片";
 "DownloadHDVideosDesc" = "新增下載高畫質（H.265）影片的選項。注意：此格式可能與某些應用不相容";
 "DownloadMusics" = "下載音樂";
-"DownloadMusicsDesc" = "新增按鈕以從影片下載音樂";
+"DownloadMusicsDesc" = "新增一個從影片中下載音樂的按鈕";
 "CopyVideoDescription" = "複製影片描述";
 "CopyVideoDescriptionDesc" = "新增一個複製影片描述的按鈕";
 "CopyVideosLink" = "複製影片連結";
 "CopyVideosLinkDesc" = "新增一個複製影片連結的按鈕";
 "CopyMusicsLink" = "複製音樂連結";
-"CopyMusicsLinkDesc" = "新增按鈕以複製音樂連結";
+"CopyMusicsLinkDesc" = "新增一個複製音樂連結的按鈕";
+"RemoveWatermark" = "Disable Watermarks";
+"RemoveWatermarkDesc" = "Useful if you want to download videos without watermarks from the standard TikTok menu";
 "DownloadProfileHeader" = "個人資料";
 "SaveProfileImage" = "儲存使用者頭像";
 "SaveProfileImageDesc" = "長按下載使用者頭像";
@@ -73,7 +75,7 @@
 "SkipToNext" = "跳到下一個";
 "RegionStyle" = "國家/地區格式和位置";
 "CountryFlag" = "國旗";
-"CountryCode" = "國家代碼";
+"CountryCode" = "國碼";
 "InNickname" = "暱稱";
 "TopRight" = "右上角";
 "StartupPage" = "啟動頁面";
@@ -82,34 +84,34 @@
 
 /* Profile Options */
 "FollowStatus" = "追蹤狀態";
-"FollowStatusDesc" = "在使用者檔案中顯示追蹤狀態";
+"FollowStatusDesc" = "在使用者檔案中顯示關注狀態";
 "VideoCount" = "影片數量";
 "VideoCountDesc" = "在使用者個人資料中顯示上傳的總數量";
 "TotalVideoCount" = "影片總數量: %@"; // %@ is total video count (Posts: 25)
 "UploadDate" = "影片上傳日期";
-"UploadDateDesc" = "在個人資料中顯示影片上傳日期";
+"UploadDateDesc" = "影片縮圖上顯示上傳日期";
 "ProfileLikeCount" = "影片按讚數量";
-"ProfileLikeCountDesc" = "在使用者檔案中顯示影片點讚數";
+"ProfileLikeCountDesc" = "影片縮圖上顯示影片點讚數";
 "UnsensitiveContent" = "不含敏感內容";
 "UnsensitiveContentDesc" = "移除敏感內容警告";
 "NoJustWatched" = "移除「剛剛看過」";
 "NoJustWatchedDesc" = "從影片縮圖中移除「剛剛看過」";
-"ExtendBio" = "增加自我介紹字數限制";
-"ExtendBioDesc" = "將個人檔案自我介紹字數限制增加至 222";
+"ExtendBio" = "增加個人簡介字數限制";
+"ExtendBioDesc" = "將個人簡介字數增加至 222";
 "ExtendComment" = "增加評論字數限制";
-"ExtendCommentDesc" = "將評論字數增加到240";
+"ExtendCommentDesc" = "將評論字數增加至 240";
 "UploadHD" = "總是以高畫質上傳影片";
 "UploadHDDesc" = "強制上傳高畫質影片";
 
 /* Confirmation Options */
 "ConfirmLike" = "確認喜歡";
-"ConfirmLikeDesc" = "在喜歡貼文前需要確認";
+"ConfirmLikeDesc" = "喜歡影片前需要確認";
 "ConfirmCommentLike" = "確認喜歡評論";
-"ConfirmCommentLikeDesc" = "在喜歡評論前需要確認";
+"ConfirmCommentLikeDesc" = "喜歡評論前需要確認";
 "ConfirmCommentDislike" = "確認不喜歡評論";
-"ConfirmCommentDislikeDesc" = "在按下不喜歡評論前需要確認";
-"ConfirmFollow" = "確認追蹤";
-"ConfirmFollowDesc" = "追蹤使用者前需要確認";
+"ConfirmCommentDislikeDesc" = "不喜歡評論前需要確認";
+"ConfirmFollow" = "確認關注";
+"ConfirmFollowDesc" = "關注使用者前需要確認";
 
 /* Region Options */
 "EnableChangingRegion" = "變更國家/地區";
@@ -165,6 +167,7 @@
 "Turkmenistan" = "土庫曼";
 "Uzbekistan" = "烏茲別克";
 "Azerbaijan" = "亞塞拜然";
+"Netherlands" = "荷蘭";
 
 /* Fake Options */
 "FakeBlueMark" = "偽裝認證徽章";
@@ -173,13 +176,13 @@
 "FollowingCount" = "關注中數量";
 "LikeCount" = "讚數量";
 "EnterNumber" = "輸入數字";
-"FakeDesc" = "將字段保留為空以顯示原始值。這些變更只對您可見";
+"FakeDesc" = "欄位留空以顯示原始數量（這些變更只對您可見）";
 
 /* Color Options */
 "NicknameColor" = "更改暱稱顏色";
 "NicknameColorDesc" = "變更動態消息中暱稱的顏色";
 "NicknameColorGlobal" = "應用於所有暱稱";
-"NicknameColorGlobalDesc" = "在應用程式中的任何位置套用暱稱顏色。需要開啟 \"%@\" 選項";
+"NicknameColorGlobalDesc" = "應用程式中的任何位置套用暱稱顏色。需要開啟 \"%@\" 選項";
 "CommentColor" =  "更改評論顏色";
 "CommentColorDesc" =  "變更評論和影片描述的顏色";
 "SelectColor" = "選擇顏色";
@@ -204,7 +207,8 @@
 "ChineseSimplified" = "簡體中文本地化";
 "ChineseTraditional" = "繁體中文本地化";
 "Spanish" = "西班牙語本地化";
-"French" = "French localization";
+"French" = "法語本地化";
+"Vietnamese" = "Vietnamese localization";
 
 /* Pop-ups And Other Stuff */
 "BHTikTokSettings" = "BHTikTok Plus";
@@ -225,6 +229,8 @@
 "CopyVideoLink" = "複製影片連結";
 "DownloadThisPhoto" = "下載這張照片";
 "DownloadAllPhotos" = "下載所有照片";
+"DownloadProfileImage" = "Download Profile Image";
+"StaticImagesOnly" = "Static Images Only";
 "CopyDescription" = "複製描述";
 "WhatToCopy" = "選擇操作";
 "CopySocialName" = "複製 @使用者名稱";
@@ -235,9 +241,9 @@
 "Success" = "已儲存";
 "Copied" = "已複製";
 "Done" = "完成";
-"NoFollows" = "未追蹤";
-"FollowsYou" = "已追蹤你";
-"DoesntFollowsYou" = "已追蹤";
+"NoFollows" = "尚未關注";
+"FollowsYou" = "已關注你";
+"DoesntFollowsYou" = "已關注";
 "Friends" = "朋友";
 
 /* Passlock */
