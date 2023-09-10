@@ -247,5 +247,5 @@
 "Friends" = "Friends";
 
 /* Passlock */
-"Authenticate" = "Authenticate";
-"IdentifyYourself" = "Identify Yourself!";
+"Authenticate" = "Authenticate to Access";
+"IdentifyYourself" = "Get Access";

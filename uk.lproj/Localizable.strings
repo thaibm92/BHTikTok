@@ -247,5 +247,5 @@
 "Friends" = "Друзья";
 
 /* Passlock */
-"Authenticate" = "Аутентификация";
-"IdentifyYourself" = "Разблокировать";
+"Authenticate" = "Разблокировать";
+"IdentifyYourself" = "Требуется разблокировка";
