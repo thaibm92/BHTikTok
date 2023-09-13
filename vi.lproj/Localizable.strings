@@ -30,6 +30,8 @@
 "DownloadVideosDesc" = "Thêm nút tải video không có hình mờ";
 "DownloadHDVideos" = "Tải xuống video HD";
 "DownloadHDVideosDesc" = "Thêm tùy chọn tải xuống video HD (H.265). Lưu ý: Định dạng này có thể không tương thích với một số ứng dụng";
+"DownloadWMVideos" = "Download Watermarked Videos";
+"DownloadWMVideosDesc" = "Adds option to download watermarked videos";
 "DownloadMusics" = "Tải nhạc";
 "DownloadMusicsDesc" = "Thêm nút tải nhạc từ video";
 "CopyVideoDescription" = "Sao chép mô tả video";
@@ -168,6 +170,8 @@
 "Uzbekistan" = "Uzbekistan";
 "Azerbaijan" = "Azerbaijan";
 "Netherlands" = "Netherlands";
+"Poland" = "Poland";
+"CzechRepublic" = "Czech Republic";
 
 /* Fake Options */
 "FakeBlueMark" = "Huy hiệu xác minh giả";
@@ -209,6 +213,7 @@
 "Spanish" = "Bản địa hóa tiếng Tây Ban Nha";
 "French" = "Bản địa hóa tiếng Pháp";
 "Vietnamese" = "Bản địa hóa tiếng Việt";
+"Turkish" = "Turkish localization";
 
 /* Pop-ups And Other Stuff */
 "BHTikTokSettings" = "BHTikTok Plus";
@@ -217,6 +222,8 @@
 "ActionLike" = "Thích";
 "ActionDislike" = "Không thích";
 "ConfirmAction" = "Xác nhận hành động";
+"Warning" = "Warning";
+"ApplyDesc" = "This action will close the app to apply the changes.\n\nAre you sure?";
 "Yes" = "Có";
 "No" = "Không";
 "Confirm" = "Xác nhận";
@@ -224,6 +231,7 @@
 "Downloading" = "Đang tải xuống";
 "DownloadVideo" = "Tải video";
 "DownloadHDVideo" = "Tải xuống video HD";
+"DownloadWMVideo" = "Download Watermarked";
 "DownloadMusic" = "Tải nhạc";
 "DownloadThisPhoto" = "Tải ảnh này xuống";
 "DownloadAllPhotos" = "Tải xuống tất cả ảnh";
@@ -238,6 +246,7 @@
 "CopyBio" = "Sao chép tiểu sử";
 "CopyBioURL" = "Sao chép URL hồ sơ";
 "VidNoMusic" = "Video không có nhạc";
+"VidNoDescription" = "Media has no description";
 "Success" = "Đã lưu";
 "Copied" = "Đã sao chép";
 "Done" = "Hoàn thành";

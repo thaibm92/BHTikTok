@@ -30,6 +30,8 @@
 "DownloadVideosDesc" = "Добавляет кнопку загрузки видео без водяных знаков";
 "DownloadHDVideos" = "Загружать HD-видео";
 "DownloadHDVideosDesc" = "Добавляет опцию для загрузки видео в HD (H.265). Внимание: Данный формат может быть несовместим с некоторыми приложениями.";
+"DownloadWMVideos" = "Видео с водяными знаками";
+"DownloadWMVideosDesc" = "Добавляет кнопку загрузки видео с сохранением водяных знаков";
 "DownloadMusics" = "Загружать аудио";
 "DownloadMusicsDesc" = "Добавляет кнопку загрузки музыку из видео";
 "CopyVideoDescription" = "Копировать описание видео";
@@ -149,7 +151,7 @@
 "Norway" = "Норвегия";
 "Sudan" = "Судан";
 "Romania" = "Румыния";
-"UnitedArabEmirates" = "Объединенные Арабские Эмираты";
+"UnitedArabEmirates" = "Арабские Эмираты";
 "Egypt" = "Египет";
 "Lebanon" = "Ливан";
 "Mexico" = "Мексика";
@@ -168,6 +170,8 @@
 "Uzbekistan" = "Узбекистан";
 "Azerbaijan" = "Азербайджан";
 "Netherlands" = "Нидерланды";
+"Poland" = "Польша";
+"CzechRepublic" = "Чехия";
 
 /* Fake Options */
 "FakeBlueMark" = "Фейковая галочка";
@@ -209,6 +213,7 @@
 "Spanish" = "Испанская локализация";
 "French" = "Французская локализация";
 "Vietnamese" = "Вьетнамская локализация";
+"Turkish" = "Турецкая локализация";
 
 /* Pop-ups And Other Stuff */
 "BHTikTokSettings" = "Настройки BHTikTok Plus";
@@ -217,6 +222,8 @@
 "ActionLike" = "Понравилось";
 "ActionDislike" = "Дизлайк";
 "ConfirmAction" = "Подтвердите действие";
+"Warning" = "Внимание";
+"ApplyDesc" = "Данное действие закроет приложение для применения настроек.\n\nВы уверены?";
 "Yes" = "Да";
 "No" = "Нет";
 "Confirm" = "Подтвердить";
@@ -224,6 +231,7 @@
 "Downloading" = "Загрузка";
 "DownloadVideo" = "Скачать видео";
 "DownloadHDVideo" = "Скачать видео (HD)";
+"DownloadWMVideo" = "С водяным знаком";
 "DownloadMusic" = "Скачать аудио";
 "CopyMusicLink" = "Скопировать ссылку на аудио";
 "CopyVideoLink" = "Скопировать ссылку на видео";
@@ -238,6 +246,7 @@
 "CopyBio" = "Скопировать описание профиля";
 "CopyBioURL" = "Скопировать ссылку из профиля";
 "VidNoMusic" = "В видео отсутствует музыка";
+"VidNoDescription" = "Описание отсутствует";
 "Success" = "Сохранено";
 "Copied" = "Скопировано";
 "Done" = "Готово";

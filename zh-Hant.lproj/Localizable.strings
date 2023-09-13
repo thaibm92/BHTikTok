@@ -30,6 +30,8 @@
 "DownloadVideosDesc" = "新增一個下載無浮水印影片的按鈕";
 "DownloadHDVideos" = "下載高畫質影片";
 "DownloadHDVideosDesc" = "新增下載高畫質（H.265）影片的選項。注意：此格式可能與某些應用不相容";
+"DownloadWMVideos" = "Download Watermarked Videos";
+"DownloadWMVideosDesc" = "Adds option to download watermarked videos";
 "DownloadMusics" = "下載音樂";
 "DownloadMusicsDesc" = "新增一個從影片中下載音樂的按鈕";
 "CopyVideoDescription" = "複製影片描述";
@@ -168,6 +170,8 @@
 "Uzbekistan" = "烏茲別克";
 "Azerbaijan" = "亞塞拜然";
 "Netherlands" = "荷蘭";
+"Poland" = "Poland";
+"CzechRepublic" = "Czech Republic";
 
 /* Fake Options */
 "FakeBlueMark" = "偽裝認證徽章";
@@ -209,6 +213,7 @@
 "Spanish" = "西班牙語本地化";
 "French" = "法語本地化";
 "Vietnamese" = "越南語本地化";
+"Turkish" = "Turkish localization";
 
 /* Pop-ups And Other Stuff */
 "BHTikTokSettings" = "BHTikTok Plus";
@@ -217,6 +222,8 @@
 "ActionLike" = "喜歡";
 "ActionDislike" = "不喜歡";
 "ConfirmAction" = "確認動作";
+"Warning" = "Warning";
+"ApplyDesc" = "This action will close the app to apply the changes.\n\nAre you sure?";
 "Yes" = "是";
 "No" = "否";
 "Confirm" = "確認";
@@ -224,6 +231,7 @@
 "Downloading" = "下載中...";
 "DownloadVideo" = "下載影片";
 "DownloadHDVideo" = "下載高畫質影片";
+"DownloadWMVideo" = "Download Watermarked";
 "DownloadMusic" = "下載音樂";
 "CopyMusicLink" = "複製音樂連結";
 "CopyVideoLink" = "複製影片連結";
@@ -238,6 +246,7 @@
 "CopyBio" = "複製個人資料";
 "CopyBioURL" = "複製個人資料連結";
 "VidNoMusic" = "影片沒有音樂";
+"VidNoDescription" = "Media has no description";
 "Success" = "已儲存";
 "Copied" = "已複製";
 "Done" = "完成";

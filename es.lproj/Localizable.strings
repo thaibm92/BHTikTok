@@ -30,6 +30,8 @@
 "DownloadVideosDesc" = "Añade un botón para descargar vídeos sin marcas de agua";
 "DownloadHDVideos" = "Descargar vídeos en HD";
 "DownloadHDVideosDesc" = "Añade la opción de descargar vídeos en HD (H.265). Nota: Este formato puede no ser compatible con algunas aplicaciones";
+"DownloadWMVideos" = "Download Watermarked Videos";
+"DownloadWMVideosDesc" = "Adds option to download watermarked videos";
 "DownloadMusics" = "Descargar música";
 "DownloadMusicsDesc" = "Añade un botón para descargar música de los vídeos";
 "CopyVideoDescription" = "Copiar descripción del vídeo";
@@ -168,6 +170,8 @@
 "Uzbekistan" = "Uzbekistán";
 "Azerbaijan" = "Azerbaiyán";
 "Netherlands" = "Países Bajos";
+"Poland" = "Poland";
+"CzechRepublic" = "Czech Republic";
 
 /* Fake Options */
 "FakeBlueMark" = "Insignia de verificación falsa";
@@ -209,6 +213,7 @@
 "Spanish" = "Traducción en Español";
 "French" = "Traducción en Francés";
 "Vietnamese" = "Traducción en Vietnamita";
+"Turkish" = "Turkish localization";
 
 /* Pop-ups And Other Stuff */
 "BHTikTokSettings" = "BHTikTok Plus";
@@ -217,6 +222,8 @@
 "ActionLike" = "Me gusta";
 "ActionDislike" = "No me gusta";
 "ConfirmAction" = "Confirmar acción";
+"Warning" = "Warning";
+"ApplyDesc" = "This action will close the app to apply the changes.\n\nAre you sure?";
 "Yes" = "Sí";
 "No" = "No";
 "Confirm" = "Confirmar";
@@ -224,6 +231,7 @@
 "Downloading" = "Descargando";
 "DownloadVideo" = "Descargar vídeo";
 "DownloadHDVideo" = "Descargar vídeo en HD";
+"DownloadWMVideo" = "Download Watermarked";
 "DownloadMusic" = "Descargar música";
 "DownloadThisPhoto" = "Descargar esta foto";
 "DownloadAllPhotos" = "Descargar todas las fotos";
@@ -238,6 +246,7 @@
 "CopyBio" = "Copiar biografía";
 "CopyBioURL" = "Copiar URL del perfil";
 "VidNoMusic" = "El vídeo no tiene música";
+"VidNoDescription" = "Media has no description";
 "Success" = "Guardado";
 "Copied" = "Copiado";
 "Done" = "Hecho";

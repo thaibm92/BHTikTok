@@ -30,6 +30,8 @@
 "DownloadVideosDesc" = "يضيف خيار لحفظ مقاطع الفيديو بدون علامة مائية";
 "DownloadHDVideos" = "حفظ الفيديو بجودة عالية";
 "DownloadHDVideosDesc" = "يضيف خيار لحفظ الفيديو بجودة عالية بصيغة (H.265) ملاحظة : قد لا تكون هذه الصيغة متوافقة مع بعض التطبيقات";
+"DownloadWMVideos" = "Download Watermarked Videos";
+"DownloadWMVideosDesc" = "Adds option to download watermarked videos";
 "DownloadMusics" = "حفظ الصوت";
 "DownloadMusicsDesc" = "يضيف خيار لحفظ الصوت من المنشورات";
 "CopyVideoDescription" = "نسخ وصف المنشور";
@@ -38,8 +40,8 @@
 "CopyVideosLinkDesc" = "يضيف خيار لنسخ رابط الفيديو";
 "CopyMusicsLink" = "نسخ رابط الصوت";
 "CopyMusicsLinkDesc" = "يضيف خيار لنسخ رابط الصوت";
-"RemoveWatermark" = "Disable Watermarks";
-"RemoveWatermarkDesc" = "Useful if you want to download videos without watermarks from the standard TikTok menu";
+"RemoveWatermark" = "تعطيل العلامة المائية";
+"RemoveWatermarkDesc" = "يسمح بحفظ المنشورات بدون علامة مائية من قائمة المشاركة";
 "DownloadProfileHeader" = "الملف الشخصي";
 "SaveProfileImage" = "حفظ صورة الملف الشخصي";
 "SaveProfileImageDesc" = "يسمح بحفظ صورة الملف الشخصي عبر الضغط لفترة طويلة";
@@ -168,6 +170,8 @@
 "Uzbekistan" = "أوزْبِكِسْتان";
 "Azerbaijan" = "أَذَرْبَيْجان";
 "Netherlands" = "هولندا";
+"Poland" = "Poland";
+"CzechRepublic" = "Czech Republic";
 
 /* Fake Options */
 "FakeBlueMark" = "شارة التوثيق المزيفة";
@@ -208,7 +212,8 @@
 "ChineseTraditional" = "ترجمها الى الصينية التقليدية";
 "Spanish" = "ترجمها إلى الإسبانية";
 "French" = "ترجمها إلى الفرنسية";
-"Vietnamese" = "Vietnamese localization";
+"Vietnamese" = "ترجمها إلى الفتنامية";
+"Turkish" = "Turkish localization";
 
 /* Pop-ups And Other Stuff */
 "BHTikTokSettings" = "BHTikTok Plus إعدادات";
@@ -217,6 +222,8 @@
 "ActionLike" = "إعجاب";
 "ActionDislike" = "عدم إعجاب";
 "ConfirmAction" = "تأكيد الإجراء";
+"Warning" = "Warning";
+"ApplyDesc" = "This action will close the app to apply the changes.\n\nAre you sure?";
 "Yes" = "نعم";
 "No" = "لا";
 "Confirm" = "تأكيد";
@@ -224,20 +231,22 @@
 "Downloading" = "جاري الحفظ";
 "DownloadVideo" = "حفظ الفيديو";
 "DownloadHDVideo" = "حفظ الفيديو بجودة عالية";
+"DownloadWMVideo" = "Download Watermarked";
 "DownloadMusic" = "حفظ الصوت";
 "CopyMusicLink" = "نسخ رابط الصوت";
 "CopyVideoLink" = "نسخ رابط الفيديو";
 "DownloadThisPhoto" = "حفظ هذه الصورة";
 "DownloadAllPhotos" = "حفظ جميع الصور";
-"DownloadProfileImage" = "Download Profile Image";
-"StaticImagesOnly" = "Static Images Only";
+"DownloadProfileImage" = "حفظ صورة الملف الشخصي";
+"StaticImagesOnly" = "يحفظ الصور الثابتة فقط";
 "CopyDescription" = "نسخ الوصف";
 "WhatToCopy" = "حدد إجراء";
-"CopySocialName" = "نسخ @اسم_المستخدم";
+"CopySocialName" = "@نسخ اسم المستخدم";
 "CopyNickName" = "نسخ الاسم";
 "CopyBio" = "نسخ السيرة الذاتية";
 "CopyBioURL" = "نسخ رابط السيرة الذاتية";
 "VidNoMusic" = "الفيديو لا يحتوي على موسيقى";
+"VidNoDescription" = "Media has no description";
 "Success" = "تم حفظه";
 "Copied" = "تم نسخه";
 "Done" = "تم";
