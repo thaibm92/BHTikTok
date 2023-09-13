@@ -30,8 +30,8 @@
 "DownloadVideosDesc" = "添加一个按钮下载不带水印的视频";
 "DownloadHDVideos" = "下载高清视频";
 "DownloadHDVideosDesc" = "添加下载高清(H.265)视频的选项。注意：此格式可能与某些应用程序不兼容。";
-"DownloadWMVideos" = "Download Watermarked Videos";
-"DownloadWMVideosDesc" = "Adds option to download watermarked videos";
+"DownloadWMVideos" = "下载水印视频";
+"DownloadWMVideosDesc" = "添加下载带水印视频的选项";
 "DownloadMusics" = "下载音乐";
 "DownloadMusicsDesc" = "添加一个按钮从视频中下载音乐";
 "CopyVideoDescription" = "复制视频文案";
@@ -170,8 +170,8 @@
 "Uzbekistan" = "乌兹别克斯坦";
 "Azerbaijan" = "阿塞拜疆";
 "Netherlands" = "荷兰";
-"Poland" = "Poland";
-"CzechRepublic" = "Czech Republic";
+"Poland" = "波兰";
+"CzechRepublic" = "捷克共和国";
 
 /* Fake Options */
 "FakeBlueMark" = "伪造认证标记";
@@ -213,7 +213,7 @@
 "Spanish" = "西班牙语本地化";
 "French" = "法语本地化";
 "Vietnamese" = "越南语本地化";
-"Turkish" = "Turkish localization";
+"Turkish" = "土耳其语本地化";
 
 /* Pop-ups And Other Stuff */
 "BHTikTokSettings" = "BHTikTok Plus";
@@ -222,8 +222,8 @@
 "ActionLike" = "喜欢";
 "ActionDislike" = "不喜欢";
 "ConfirmAction" = "确认操作";
-"Warning" = "Warning";
-"ApplyDesc" = "This action will close the app to apply the changes.\n\nAre you sure?";
+"Warning" = "警告";
+"ApplyDesc" = "此操作将关闭应用程序以应用更改。\n\n你确定吗？";
 "Yes" = "是";
 "No" = "不";
 "Confirm" = "确认";
@@ -231,7 +231,7 @@
 "Downloading" = "正在下载";
 "DownloadVideo" = "下载视频";
 "DownloadHDVideo" = "下载高清视频";
-"DownloadWMVideo" = "Download Watermarked";
+"DownloadWMVideo" = "下载水印视频";
 "DownloadMusic" = "下载音乐";
 "DownloadThisPhoto" = "下载此图片";
 "DownloadAllPhotos" = "下载所有图片";
@@ -246,7 +246,7 @@
 "CopyBio" = "复制个人简介";
 "CopyBioURL" = "复制个人链接";
 "VidNoMusic" = "视频没有音乐";
-"VidNoDescription" = "Media has no description";
+"VidNoDescription" = "视频没有文案";
 "Success" = "已保存";
 "Copied" = "已复制";
 "Done" = "完成";
