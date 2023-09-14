@@ -223,7 +223,7 @@
 "ActionDislike" = "Không thích";
 "ConfirmAction" = "Xác nhận hành động";
 "Warning" = "Cảnh báo";
-"ApplyDesc" = "Hành động này sẽ đóng ứng dụng để áp dụng các thay đổi.\in\Bạn có chắc chắn không?";
+"ApplyDesc" = "Hành động này sẽ đóng ứng dụng để áp dụng các thay đổi.\n\nBạn có chắc chắn không?";
 "Yes" = "Có";
 "No" = "Không";
 "Confirm" = "Xác nhận";
