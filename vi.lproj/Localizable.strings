@@ -187,10 +187,10 @@
 "NicknameColorDesc" = "Thay đổi màu của biệt hiệu trong nguồn cấp dữ liệu";
 "NicknameColorGlobal" = "Áp dụng cho tất cả biệt danh";
 "NicknameColorGlobalDesc" = "Thay đổi màu biệt hiệu trong suốt ứng dụng. Cần bật tùy chọn \"%@\""; // %@ là NicknameColor
-"CommentColor" =  "Change Description Color";
-"CommentColorDesc" =  "Alters the colors of video descriptions";
-"CommentColorGlobal" =  "Apply to comments";
-"CommentColorGlobalDesc" =  "Alters the colors of comments";
+"CommentColor" =  "Thay đổi màu mô tả";
+"CommentColorDesc" =  "Thay đổi màu sắc của mô tả video";
+"CommentColorGlobal" =  "Áp dụng cho nhận xét";
+"CommentColorGlobalDesc" =  "Thay đổi màu sắc của bình luận";
 "SelectColor" = "Chọn màu";
 "ProfileTextShadow" = "Áp dụng bóng cho hình thu nhỏ";
 "ProfileTextShadowDesc" = "Áp dụng bóng cho số liệu thống kê về hình thu nhỏ video trong cấu hình";
