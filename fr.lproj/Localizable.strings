@@ -187,8 +187,10 @@
 "NicknameColorDesc" = "Modifie la couleur des surnoms dans le flux";
 "NicknameColorGlobal" = "Appliquer à tous les surnoms";
 "NicknameColorGlobalDesc" = "Change la couleur des surnoms dans toute l'application. Activation de l'option \"%@\" requise";
-"CommentColor" = "Changer la couleur du commentaire";
-"CommentColorDesc" = "Modifie les couleurs des commentaires et des descriptions vidéo";
+"CommentColor" =  "Change Description Color";
+"CommentColorDesc" =  "Alters the colors of video descriptions";
+"CommentColorGlobal" =  "Apply to comments";
+"CommentColorGlobalDesc" =  "Alters the colors of comments";
 "SelectColor" = "Choisir la couleur";
 "ProfileTextShadow" = "Appliquer une ombre aux vignettes";
 "ProfileTextShadowDesc" = "Applique une ombre aux statistiques sur les miniatures vidéo dans les profils";

@@ -30,8 +30,8 @@
 "DownloadVideosDesc" = "新增一個下載無浮水印影片的按鈕";
 "DownloadHDVideos" = "下載高畫質影片";
 "DownloadHDVideosDesc" = "新增下載高畫質（H.265）影片的選項。注意：此格式可能與某些應用不相容";
-"DownloadWMVideos" = "Download Watermarked Videos";
-"DownloadWMVideosDesc" = "Adds option to download watermarked videos";
+"DownloadWMVideos" = "下載浮水印影片";
+"DownloadWMVideosDesc" = "新增下載有浮水印影片的選項";
 "DownloadMusics" = "下載音樂";
 "DownloadMusicsDesc" = "新增一個從影片中下載音樂的按鈕";
 "CopyVideoDescription" = "複製影片描述";
@@ -170,8 +170,8 @@
 "Uzbekistan" = "烏茲別克";
 "Azerbaijan" = "亞塞拜然";
 "Netherlands" = "荷蘭";
-"Poland" = "Poland";
-"CzechRepublic" = "Czech Republic";
+"Poland" = "波蘭";
+"CzechRepublic" = "捷克";
 
 /* Fake Options */
 "FakeBlueMark" = "偽裝認證徽章";
@@ -187,8 +187,10 @@
 "NicknameColorDesc" = "變更動態消息中暱稱的顏色";
 "NicknameColorGlobal" = "應用於所有暱稱";
 "NicknameColorGlobalDesc" = "應用程式中的任何位置套用暱稱顏色。需要開啟 \"%@\" 選項";
-"CommentColor" =  "更改評論顏色";
-"CommentColorDesc" =  "變更評論和影片描述的顏色";
+"CommentColor" =  "Change Description Color";
+"CommentColorDesc" =  "Alters the colors of video descriptions";
+"CommentColorGlobal" =  "Apply to comments";
+"CommentColorGlobalDesc" =  "Alters the colors of comments";
 "SelectColor" = "選擇顏色";
 "ProfileTextShadow" = "縮圖套用陰影";
 "ProfileTextShadowDesc" = "在個人資料中的影片縮圖上套用陰影到統計數據";
@@ -213,7 +215,7 @@
 "Spanish" = "西班牙語本地化";
 "French" = "法語本地化";
 "Vietnamese" = "越南語本地化";
-"Turkish" = "Turkish localization";
+"Turkish" = "土耳其語本地化";
 
 /* Pop-ups And Other Stuff */
 "BHTikTokSettings" = "BHTikTok Plus";
@@ -222,8 +224,8 @@
 "ActionLike" = "喜歡";
 "ActionDislike" = "不喜歡";
 "ConfirmAction" = "確認動作";
-"Warning" = "Warning";
-"ApplyDesc" = "This action will close the app to apply the changes.\n\nAre you sure?";
+"Warning" = "警告";
+"ApplyDesc" = "這個操作將會關閉應用程式以套用變更\n\n您確定嗎?";
 "Yes" = "是";
 "No" = "否";
 "Confirm" = "確認";
@@ -231,7 +233,7 @@
 "Downloading" = "下載中...";
 "DownloadVideo" = "下載影片";
 "DownloadHDVideo" = "下載高畫質影片";
-"DownloadWMVideo" = "Download Watermarked";
+"DownloadWMVideo" = "下載浮水印影片";
 "DownloadMusic" = "下載音樂";
 "CopyMusicLink" = "複製音樂連結";
 "CopyVideoLink" = "複製影片連結";
@@ -246,7 +248,7 @@
 "CopyBio" = "複製個人資料";
 "CopyBioURL" = "複製個人資料連結";
 "VidNoMusic" = "影片沒有音樂";
-"VidNoDescription" = "Media has no description";
+"VidNoDescription" = "影片沒有描述";
 "Success" = "已儲存";
 "Copied" = "已複製";
 "Done" = "完成";

@@ -187,8 +187,10 @@
 "NicknameColorDesc" = "Cambia el color de los @nicks en el feed";
 "NicknameColorGlobal" = "Aplicar a todos los @nicks";
 "NicknameColorGlobalDesc" = "Cambia el color de los @nicks en toda la aplicación. requiere habilitar la opción '%@'";
-"CommentColor" = "Cambiar color de comentario";
-"CommentColorDesc" = "Cambia los colores de los comentarios y descripciones de vídeos";
+"CommentColor" =  "Change Description Color";
+"CommentColorDesc" =  "Alters the colors of video descriptions";
+"CommentColorGlobal" =  "Apply to comments";
+"CommentColorGlobalDesc" =  "Alters the colors of comments";
 "SelectColor" = "Elegir color";
 "ProfileTextShadow" = "Aplicar sombra a las miniaturas";
 "ProfileTextShadowDesc" = "Aplica sombra a las estadísticas en las miniaturas de vídeo en los perfiles";

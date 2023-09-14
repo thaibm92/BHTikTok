@@ -4,15 +4,15 @@
 "PlusDeveloper" = "BHTikTok Plus geliştiricisi";
 
 /* Main */
-"DownloadOptions" = "İndirme";
-"FeedOptions" = "Besleme";
-"ProfileOptions" = "Profil";
-"ConfirmationOptions" = "Onayla";
-"RegionOptions" = "Bölge";
-"FakeOptions" = "Sahte";
-"ColorOptions" = "Görünüş";
-"OtherOptions" = "Diğer";
-"Apply" = "Uygula";
+"DownloadOptions" = "İndirme Seçenekleri";
+"FeedOptions" = "Besleme Seçenekleri";
+"ProfileOptions" = "Profil Seçenekleri";
+"ConfirmationOptions" = "Onaylama Seçenekleri";
+"RegionOptions" = "Bölge Seçenekleri";
+"FakeOptions" = "Sahte Seçenekleri";
+"ColorOptions" = "Renk Seçenekleri";
+"OtherOptions" = "Diğer Seçenekler";
+"Apply" = "Ayarları Uygula";
 
 /* Developer */
 "TipJar" = "İpucu Kavanozu";
@@ -26,12 +26,12 @@
 
 /* Download Options */
 "DownloadFeedHeader" = "Besleme";
-"DownloadVideos" = "Videolar indir";
+"DownloadVideos" = "Video indir";
 "DownloadVideosDesc" = "Filigransız videoları indirmek için bir düğme ekler";
 "DownloadHDVideos" = "HD Videoları İndirin";
 "DownloadHDVideosDesc" = "HD (H.265) videoları indirme seçeneği ekler. Not: Bu format bazı uygulamalarla uyumlu olmayabilir";
-"DownloadWMVideos" = "Download Watermarked Videos";
-"DownloadWMVideosDesc" = "Adds option to download watermarked videos";
+"DownloadWMVideos" = "Filigranlı Video İndir";
+"DownloadWMVideosDesc" = "Filigranlı videoları indirme seçeneği ekler";
 "DownloadMusics" = "Müzik indir";
 "DownloadMusicsDesc" = "Videolardan müzik indirmek için bir düğme ekler";
 "CopyVideoDescription" = "Video Açıklamasını Kopyala";
@@ -40,8 +40,8 @@
 "CopyVideosLinkDesc" = "Video bağlantılarını kopyalamak için bir düğme ekler";
 "CopyMusicsLink" = "Müzik Bağlantısını Kopyala";
 "CopyMusicsLinkDesc" = "Müzik bağlantılarını kopyalamak için bir düğme ekler";
-"RemoveWatermark" = "Disable Watermarks";
-"RemoveWatermarkDesc" = "Useful if you want to download videos without watermarks from the standard TikTok menu";
+"RemoveWatermark" = "Filigranları Devre Dışı Bırak ";
+"RemoveWatermarkDesc" = "Standart TikTok menüsünden filigransız videolar indirmek istiyorsanız kullanışlıdır ";
 "DownloadProfileHeader" = "Profil";
 "SaveProfileImage" = "Profil Fotoğraflarını Kaydet";
 "SaveProfileImageDesc" = "Uzun basıldığında profil fotoğraflarının indirilmesine izin verir";
@@ -50,7 +50,7 @@
 "DownloadedAction" = "Yükleme Sonrası Eylem";
 "SaveToPhotos" = "Fotoğraflara Kaydet";
 "ShowShareSheet" = "Paylaşım Sayfasını Göster";
-"DownloadMenu" = "Menü Stilini İndir";
+"DownloadMenu" = "Bağlam Menü Stili";
 "CompactMenu" = "Kompakt";
 "OldMenu" = "TikTok";
 
@@ -187,8 +187,10 @@
 "NicknameColorDesc" = "Akıştaki takma adların rengini değiştirir";
 "NicknameColorGlobal" = "Tüm Takma Adlara Uygula";
 "NicknameColorGlobalDesc" = "Uygulama boyunca takma adların rengini değiştirir. \"%@\" seçeneğinin etkinleştirilmesi gerekiyor";
-"CommentColor" = "Yorum Rengini Değiştir";
-"CommentColorDesc" = "Yorumların ve video açıklamalarının renklerini değiştirir";
+"CommentColor" =  "Açıklamaların Rengini Değiştir";
+"CommentColorDesc" =  "Video açıklamalarının renklerini değiştirir";
+"CommentColorGlobal" =  "Yorumlara Uygula";
+"CommentColorGlobalDesc" =  "Aynı rengi yorumlara uygular";
 "SelectColor" = "Renk seç";
 "ProfileTextShadow" = "Küçük Resimlere Gölge Uygula";
 "ProfileTextShadowDesc" = "Profillerdeki video küçük resimlerindeki istatistiklere gölge uygular";
@@ -222,7 +224,7 @@
 "ActionLike" = "Beğen";
 "ActionDislike" = "Beğenme";
 "ConfirmAction" = "Eylemi Onayla";
-"Warning" = "uyarı";
+"Warning" = "Uyarı";
 "ApplyDesc" = "Bu eylem, değişikliklerin uygulanması için uygulamayı kapatacak. Devam etmek istediğine emin misin?";
 "Yes" = "Evet";
 "No" = "Hayır";
@@ -231,7 +233,7 @@
 "Downloading" = "İndiriliyor";
 "DownloadVideo" = "Video indir";
 "DownloadHDVideo" = "HD Videoyu İndir";
-"DownloadWMVideo" = "Download Watermarked";
+"DownloadWMVideo" = "Filigranlı İndir";
 "DownloadMusic" = "Müzik indir";
 "DownloadThisPhoto" = "Bu Fotoğrafı İndir";
 "DownloadAllPhotos" = "Tüm Fotoğrafları İndir";

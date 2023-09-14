@@ -30,8 +30,8 @@
 "DownloadVideosDesc" = "يضيف خيار لحفظ مقاطع الفيديو بدون علامة مائية";
 "DownloadHDVideos" = "حفظ الفيديو بجودة عالية";
 "DownloadHDVideosDesc" = "يضيف خيار لحفظ الفيديو بجودة عالية بصيغة (H.265) ملاحظة : قد لا تكون هذه الصيغة متوافقة مع بعض التطبيقات";
-"DownloadWMVideos" = "Download Watermarked Videos";
-"DownloadWMVideosDesc" = "Adds option to download watermarked videos";
+"DownloadWMVideos" = "حفظ الفيديو مع العلامة المائية";
+"DownloadWMVideosDesc" = "يضيف خيار لحفظ المقاطع مع العلامة المائية";
 "DownloadMusics" = "حفظ الصوت";
 "DownloadMusicsDesc" = "يضيف خيار لحفظ الصوت من المنشورات";
 "CopyVideoDescription" = "نسخ وصف المنشور";
@@ -170,8 +170,8 @@
 "Uzbekistan" = "أوزْبِكِسْتان";
 "Azerbaijan" = "أَذَرْبَيْجان";
 "Netherlands" = "هولندا";
-"Poland" = "Poland";
-"CzechRepublic" = "Czech Republic";
+"Poland" = "بولَنْدا";
+"CzechRepublic" = "التشيك";
 
 /* Fake Options */
 "FakeBlueMark" = "شارة التوثيق المزيفة";
@@ -213,7 +213,7 @@
 "Spanish" = "ترجمها إلى الإسبانية";
 "French" = "ترجمها إلى الفرنسية";
 "Vietnamese" = "ترجمها إلى الفتنامية";
-"Turkish" = "Turkish localization";
+"Turkish" = "ترجمها إلى التركية";
 
 /* Pop-ups And Other Stuff */
 "BHTikTokSettings" = "BHTikTok Plus إعدادات";
@@ -222,8 +222,8 @@
 "ActionLike" = "إعجاب";
 "ActionDislike" = "عدم إعجاب";
 "ConfirmAction" = "تأكيد الإجراء";
-"Warning" = "Warning";
-"ApplyDesc" = "This action will close the app to apply the changes.\n\nAre you sure?";
+"Warning" = "تحذير";
+"ApplyDesc" = "سيغلق هذا الإجراء التطبيق لتفعيل التغييرات.\n\nهل أنت متأكد؟";
 "Yes" = "نعم";
 "No" = "لا";
 "Confirm" = "تأكيد";
@@ -231,7 +231,7 @@
 "Downloading" = "جاري الحفظ";
 "DownloadVideo" = "حفظ الفيديو";
 "DownloadHDVideo" = "حفظ الفيديو بجودة عالية";
-"DownloadWMVideo" = "Download Watermarked";
+"DownloadWMVideo" = "حفظ الفيديو مع العلامة المائية";
 "DownloadMusic" = "حفظ الصوت";
 "CopyMusicLink" = "نسخ رابط الصوت";
 "CopyVideoLink" = "نسخ رابط الفيديو";
@@ -246,7 +246,7 @@
 "CopyBio" = "نسخ السيرة الذاتية";
 "CopyBioURL" = "نسخ رابط السيرة الذاتية";
 "VidNoMusic" = "الفيديو لا يحتوي على موسيقى";
-"VidNoDescription" = "Media has no description";
+"VidNoDescription" = "لا يوجد وصف للمنشور";
 "Success" = "تم حفظه";
 "Copied" = "تم نسخه";
 "Done" = "تم";

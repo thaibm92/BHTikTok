@@ -187,8 +187,10 @@
 "NicknameColorDesc" = "Меняет цвет никнеймов в ленте";
 "NicknameColorGlobal" = "Применить ко всем никнеймам";
 "NicknameColorGlobalDesc" = "Меняет цвет никнеймов по всему приложению. Требуется включение «%@»"; // %@ is NicknameColor
-"CommentColor" =  "Цветные комментарии";
-"CommentColorDesc" =  "Меняет цвет описаний роликов и комментариев";
+"CommentColor" =  "Цветное описание видео";
+"CommentColorDesc" =  "Меняет цвет описаний роликов";
+"CommentColorGlobal" =  "Применить к комментариям";
+"CommentColorGlobalDesc" =  "Меняет цвет комментариев";
 "SelectColor" = "Выберите цвет";
 "ProfileTextShadow" = "Применить тень к эскизам";
 "ProfileTextShadowDesc" = "Применяет тень к статистике на эскизах видео в профиле";

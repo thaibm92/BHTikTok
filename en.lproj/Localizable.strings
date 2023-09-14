@@ -187,8 +187,10 @@
 "NicknameColorDesc" = "Alters the color of nicknames in the feed";
 "NicknameColorGlobal" = "Apply to All Nicknames";
 "NicknameColorGlobalDesc" = "Changes nicknames color throughout the app. Enabling \"%@\" option required"; // %@ is NicknameColor
-"CommentColor" =  "Change Comment Color";
-"CommentColorDesc" =  "Alters the colors of comments and video descriptions";
+"CommentColor" =  "Change Description Color";
+"CommentColorDesc" =  "Alters the colors of video descriptions";
+"CommentColorGlobal" =  "Apply to comments";
+"CommentColorGlobalDesc" =  "Alters the colors of comments";
 "SelectColor" = "Choose Color";
 "ProfileTextShadow" = "Apply Shadow to Thumbnails";
 "ProfileTextShadowDesc" = "Applies shadow to statistics on video thumbnails in profiles";
