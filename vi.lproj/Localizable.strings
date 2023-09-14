@@ -30,8 +30,8 @@
 "DownloadVideosDesc" = "Thêm nút tải video không có hình mờ";
 "DownloadHDVideos" = "Tải xuống video HD";
 "DownloadHDVideosDesc" = "Thêm tùy chọn tải xuống video HD (H.265). Lưu ý: Định dạng này có thể không tương thích với một số ứng dụng";
-"DownloadWMVideos" = "Download Watermarked Videos";
-"DownloadWMVideosDesc" = "Adds option to download watermarked videos";
+"DownloadWMVideos" = "Tải xuống video có hình mờ";
+"DownloadWMVideosDesc" = "Thêm tùy chọn tải xuống video có hình mờ";
 "DownloadMusics" = "Tải nhạc";
 "DownloadMusicsDesc" = "Thêm nút tải nhạc từ video";
 "CopyVideoDescription" = "Sao chép mô tả video";
@@ -40,13 +40,13 @@
 "CopyVideosLinkDesc" = "Thêm nút sao chép link video";
 "CopyMusicsLink" = "Sao chép liên kết nhạc";
 "CopyMusicsLinkDesc" = "Thêm nút copy link nhạc";
-"RemoveWatermark" = "Disable Watermarks";
-"RemoveWatermarkDesc" = "Useful if you want to download videos without watermarks from the standard TikTok menu";
+"RemoveWatermark" = "Tắt hình mờ";
+"RemoveWatermarkDesc" = "Hữu ích nếu bạn muốn tải xuống video không có hình mờ từ menu TikTok tiêu chuẩn";
 "DownloadProfileHeader" = "Hồ sơ";
 "SaveProfileImage" = "Lưu ảnh hồ sơ";
 "SaveProfileImageDesc" = "Cho phép tải ảnh hồ sơ bằng cách nhấn giữ";
 "CopyProfileInformation" = "Sao chép thông tin hồ sơ";
-"CopyProfileInformationDesc" = "Cho phép sao chép mô tả hồ sơ bằng cách nhấn và giữ ảnh hoặc @username";
+"CopyProfileInformationDesc" = "Cho phép sao chép mô tả hồ sơ bằng cách nhấn và giữ ảnh hoặc @tennguoidung";
 "DownloadedAction" = "Hành động sau khi tải";
 "SaveToPhotos" = "Lưu vào ảnh";
 "ShowShareSheet" = "Hiển thị bảng chia sẻ";
@@ -72,9 +72,9 @@
 "SkipLive" = "Bỏ qua chương trình phát sóng trực tiếp";
 "ShowProgressBar" = "Hiển thị thanh tiến trình";
 "PlaybackAction" = "Hành động sau khi hoàn thành phát lại video";
-"Replay" = "Repeat";
+"Replay" = "Lặp lại";
 "Stop" = "Dừng lại";
-"SkipToNext" = "Chuyển sang phần tiếp theo";
+"SkipToNext" = "Tiếp theo";
 "RegionStyle" = "Định dạng và vị trí khu vực";
 "CountryFlag" = "Lá cờ Tổ quốc";
 "CountryCode" = "Mã quốc gia";
@@ -213,7 +213,7 @@
 "Spanish" = "Bản địa hóa tiếng Tây Ban Nha";
 "French" = "Bản địa hóa tiếng Pháp";
 "Vietnamese" = "Bản địa hóa tiếng Việt";
-"Turkish" = "Turkish localization";
+"Turkish" = "Bản địa hóa tiếng Thổ Nhĩ Kỳ";
 
 /* Pop-ups And Other Stuff */
 "BHTikTokSettings" = "BHTikTok Plus";
@@ -222,8 +222,8 @@
 "ActionLike" = "Thích";
 "ActionDislike" = "Không thích";
 "ConfirmAction" = "Xác nhận hành động";
-"Warning" = "Warning";
-"ApplyDesc" = "This action will close the app to apply the changes.\n\nAre you sure?";
+"Warning" = "Cảnh báo";
+"ApplyDesc" = "Hành động này sẽ đóng ứng dụng để áp dụng các thay đổi.\in\Bạn có chắc chắn không?";
 "Yes" = "Có";
 "No" = "Không";
 "Confirm" = "Xác nhận";
@@ -231,12 +231,12 @@
 "Downloading" = "Đang tải xuống";
 "DownloadVideo" = "Tải video";
 "DownloadHDVideo" = "Tải xuống video HD";
-"DownloadWMVideo" = "Download Watermarked";
+"DownloadWMVideo" = "Tải xuống có hình mờ";
 "DownloadMusic" = "Tải nhạc";
 "DownloadThisPhoto" = "Tải ảnh này xuống";
 "DownloadAllPhotos" = "Tải xuống tất cả ảnh";
-"DownloadProfileImage" = "Download Profile Image";
-"StaticImagesOnly" = "Static Images Only";
+"DownloadProfileImage" = "Tải xuống hình ảnh hồ sơ";
+"StaticImagesOnly" = "Chỉ hình ảnh tĩnh";
 "CopyMusicLink" = "Sao chép liên kết nhạc";
 "CopyVideoLink" = "Sao chép liên kết video";
 "CopyDescription" = "Sao chép mô tả";
@@ -257,4 +257,4 @@
 
 /* Passlock */
 "Authenticate" = "Xác thực";
-"IdentifyYourself" = "Xác định chính mình!";
+"IdentifyYourself" = "Để mở ứng dụng";
