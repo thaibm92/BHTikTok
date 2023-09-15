@@ -187,10 +187,10 @@
 "NicknameColorDesc" = "變更動態消息中暱稱的顏色";
 "NicknameColorGlobal" = "應用於所有暱稱";
 "NicknameColorGlobalDesc" = "應用程式中的任何位置套用暱稱顏色。需要開啟 \"%@\" 選項";
-"CommentColor" =  "Change Description Color";
-"CommentColorDesc" =  "Alters the colors of video descriptions";
-"CommentColorGlobal" =  "Apply to comments";
-"CommentColorGlobalDesc" =  "Alters the colors of comments";
+"CommentColor" =  "更改描述文字顏色";
+"CommentColorDesc" =  "變更影片描述的顏色";
+"CommentColorGlobal" =  "套用至評論";
+"CommentColorGlobalDesc" =  "調整評論的顏色";
 "SelectColor" = "選擇顏色";
 "ProfileTextShadow" = "縮圖套用陰影";
 "ProfileTextShadowDesc" = "在個人資料中的影片縮圖上套用陰影到統計數據";
