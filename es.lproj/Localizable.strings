@@ -30,8 +30,8 @@
 "DownloadVideosDesc" = "Añade un botón para descargar vídeos sin marcas de agua";
 "DownloadHDVideos" = "Descargar vídeos en HD";
 "DownloadHDVideosDesc" = "Añade la opción de descargar vídeos en HD (H.265). Nota: Este formato puede no ser compatible con algunas aplicaciones";
-"DownloadWMVideos" = "Download Watermarked Videos";
-"DownloadWMVideosDesc" = "Adds option to download watermarked videos";
+"DownloadWMVideos" = "Descargar vídeos con marca de agua";
+"DownloadWMVideosDesc" = "Añade la opción de descargar vídeos con marca de agua";
 "DownloadMusics" = "Descargar música";
 "DownloadMusicsDesc" = "Añade un botón para descargar música de los vídeos";
 "CopyVideoDescription" = "Copiar descripción del vídeo";
@@ -40,8 +40,8 @@
 "CopyVideosLinkDesc" = "Añade un botón para copiar enlaces de vídeo";
 "CopyMusicsLink" = "Copiar enlace de música";
 "CopyMusicsLinkDesc" = "Añade un botón para copiar enlaces de música";
-"RemoveWatermark" = "Disable Watermarks";
-"RemoveWatermarkDesc" = "Useful if you want to download videos without watermarks from the standard TikTok menu";
+"RemoveWatermark" = "Desactivar marcas de agua";
+"RemoveWatermarkDesc" = "Útil si quieres descargar vídeos sin marcas de agua desde el menú estándar de TikTok.";
 "DownloadProfileHeader" = "Perfil";
 "SaveProfileImage" = "Guardar fotos de perfil";
 "SaveProfileImageDesc" = "Permite descargar fotos de perfil manteniendo presionada la imagen";
@@ -170,8 +170,8 @@
 "Uzbekistan" = "Uzbekistán";
 "Azerbaijan" = "Azerbaiyán";
 "Netherlands" = "Países Bajos";
-"Poland" = "Poland";
-"CzechRepublic" = "Czech Republic";
+"Poland" = "Polonia";
+"CzechRepublic" = "República Checa";
 
 /* Fake Options */
 "FakeBlueMark" = "Insignia de verificación falsa";
@@ -187,10 +187,10 @@
 "NicknameColorDesc" = "Cambia el color de los @nicks en el feed";
 "NicknameColorGlobal" = "Aplicar a todos los @nicks";
 "NicknameColorGlobalDesc" = "Cambia el color de los @nicks en toda la aplicación. requiere habilitar la opción '%@'";
-"CommentColor" =  "Change Description Color";
-"CommentColorDesc" =  "Alters the colors of video descriptions";
-"CommentColorGlobal" =  "Apply to comments";
-"CommentColorGlobalDesc" =  "Alters the colors of comments";
+"CommentColor" =  "Cambiar el color de la descripción";
+"CommentColorDesc" =  "Altera los colores de las descripciones de los vídeos";
+"CommentColorGlobal" =  "Aplicar a los comentarios";
+"CommentColorGlobalDesc" =  "Altera los colores de los comentarios";
 "SelectColor" = "Elegir color";
 "ProfileTextShadow" = "Aplicar sombra a las miniaturas";
 "ProfileTextShadowDesc" = "Aplica sombra a las estadísticas en las miniaturas de vídeo en los perfiles";
@@ -215,7 +215,7 @@
 "Spanish" = "Traducción en Español";
 "French" = "Traducción en Francés";
 "Vietnamese" = "Traducción en Vietnamita";
-"Turkish" = "Turkish localization";
+"Turkish" = "Traducción en Turco";
 
 /* Pop-ups And Other Stuff */
 "BHTikTokSettings" = "BHTikTok Plus";
@@ -224,8 +224,8 @@
 "ActionLike" = "Me gusta";
 "ActionDislike" = "No me gusta";
 "ConfirmAction" = "Confirmar acción";
-"Warning" = "Warning";
-"ApplyDesc" = "This action will close the app to apply the changes.\n\nAre you sure?";
+"Warning" = "Aviso";
+"ApplyDesc" = "Esta acción cerrará la aplicación para aplicar los cambios.\n¿Estás seguro?";
 "Yes" = "Sí";
 "No" = "No";
 "Confirm" = "Confirmar";
@@ -233,12 +233,12 @@
 "Downloading" = "Descargando";
 "DownloadVideo" = "Descargar vídeo";
 "DownloadHDVideo" = "Descargar vídeo en HD";
-"DownloadWMVideo" = "Download Watermarked";
+"DownloadWMVideo" = "Descargar con marca de agua";
 "DownloadMusic" = "Descargar música";
 "DownloadThisPhoto" = "Descargar esta foto";
 "DownloadAllPhotos" = "Descargar todas las fotos";
-"DownloadProfileImage" = "Download Profile Image";
-"StaticImagesOnly" = "Static Images Only";
+"DownloadProfileImage" = "Descargar imagen de perfil";
+"StaticImagesOnly" = "Sólo imágenes estáticas";
 "CopyMusicLink" = "Copiar enlace de música";
 "CopyVideoLink" = "Copiar enlace del vídeo";
 "CopyDescription" = "Copiar descripción";
@@ -248,7 +248,7 @@
 "CopyBio" = "Copiar biografía";
 "CopyBioURL" = "Copiar URL del perfil";
 "VidNoMusic" = "El vídeo no tiene música";
-"VidNoDescription" = "Media has no description";
+"VidNoDescription" = "El medio no tiene descripción";
 "Success" = "Guardado";
 "Copied" = "Copiado";
 "Done" = "Hecho";
