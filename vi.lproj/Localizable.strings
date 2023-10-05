@@ -15,7 +15,7 @@
 "Apply" = "Áp dụng";
 
 /* Developer */
-"TipJar" = "Tip Jar";
+"TipJar" = "Hộp tiền boa";
 "DonateViaPayPal" = "Tặng qua PayPal";
 "Donate" = "Hỗ trợ nhà phát triển";
 "Telegram" = "Kênh Telegram của chúng tôi";
@@ -189,7 +189,7 @@
 "NicknameColorGlobalDesc" = "Thay đổi màu biệt hiệu trong suốt ứng dụng. Cần bật tùy chọn \"%@\""; // %@ là NicknameColor
 "CommentColor" =  "Change Description Color";
 "CommentColorDesc" =  "Alters the colors of video descriptions";
-"CommentColorGlobal" =  "Apply to comments";
+"CommentColorGlobal" =  "Apply to Comments";
 "CommentColorGlobalDesc" =  "Alters the colors of comments";
 "SelectColor" = "Chọn màu";
 "ProfileTextShadow" = "Áp dụng bóng cho hình thu nhỏ";
