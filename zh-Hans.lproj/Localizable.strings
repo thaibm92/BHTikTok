@@ -185,18 +185,18 @@
 /* Color Options */
 "NicknameColor" = "更改昵称颜色";
 "NicknameColorDesc" = "更改视频流中昵称的颜色";
-"NicknameColorGlobal" = "颜色应用于所有昵称";
+"NicknameColorGlobal" = "应用于所有昵称";
 "NicknameColorGlobalDesc" = "更改整个应用程序的昵称颜色，需要启用 \"%@\" 选项。";
-"CommentColor" =  "Change Description Color";
-"CommentColorDesc" =  "Alters the colors of video descriptions";
-"CommentColorGlobal" =  "Apply to comments";
-"CommentColorGlobalDesc" =  "Alters the colors of comments";
+"CommentColor" =  "更改文案颜色";
+"CommentColorDesc" =  "更改视频文案的颜色";
+"CommentColorGlobal" =  "应用于评论";
+"CommentColorGlobalDesc" =  "更改评论的颜色";
 "SelectColor" = "选择颜色";
-"ProfileTextShadow" = "将阴影应用于缩略图";
+"ProfileTextShadow" = "缩略图阴影";
 "ProfileTextShadowDesc" = "将阴影应用于个人主页中视频缩略图的统计信息";
-"NicknameTextShadow" = "将阴影应用于昵称";
+"NicknameTextShadow" = "昵称阴影";
 "NicknameTextShadowDesc" = "将阴影应用于视频流中的昵称";
-"NicknameGlobalShadow" = "将阴影应用于所有昵称";
+"NicknameGlobalShadow" = "应用于所有昵称";
 "NicknameGlobalShadowDesc" = "将阴影应用于整个应用程序中的所有昵称，需要启用 \"%@\" 选项。";
 
 /* Other */
