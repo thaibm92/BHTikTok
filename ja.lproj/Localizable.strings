@@ -40,6 +40,10 @@
 "CopyVideosLinkDesc" = "動画のリンクをコピーするボタンを追加します";
 "CopyMusicsLink" = "音楽のリンクをコピー";
 "CopyMusicsLinkDesc" = "音楽のリンクをコピーするボタンを追加します";
+"GroupMenuItems" = "Group Menu Items";
+"GroupMenuItemsDesc" = "Groups menu items to Download and Copy Information submenus";
+"CompactProgress" = "Compact Progress Bar";
+"CompactProgressDesc" = "Displays a compact downloading progress bar at the bottom of the screen";
 "RemoveWatermark" = "ウォーターマークを無効にする";
 "RemoveWatermarkDesc" = "通常のTikTokメニューからウォーターマークなしで動画をダウンロードする場合に便利です";
 "DownloadProfileHeader" = "プロフィール";
@@ -62,12 +66,16 @@
 "HideUIDesc" = "インターフェースボタンを非表示/表示するボタンを追加します";
 "UploadRegion" = "アップロード国を表示";
 "UploadRegionDesc" = "ユーザー名の横に動画のアップロード国の旗を表示します";
+"NoPullToRefresh" = "Disable Pull To Refresh";
+"NoPullToRefreshDesc" = "Disables the gesture to refresh the feed by pulling down on the first page";
 "ShowUsername" = "ユーザー名を表示";
 "ShowUsernameDesc" = "以前のバージョンと同様にニックネームの代わりにユーザー名を表示します";
 "TransparentComms" = "半透明コメント";
 "TransparentCommsDesc" = "コメントウィンドウの背景を半透明にし、動画を視聴しながらコメントを読むことができるようにします";
 "ClearLinks" = "リンクをクリア";
 "ClearLinksDesc" = "アカウントから共有されたリンクのトラッキングを削除します";
+"NoWarnings" = "Disable Warnings";
+"NoWarningsDesc" = "Removes the warning message under the video description";
 "SkipRecs" = "おすすめをスキップ";
 "SkipLive" = "ライブ放送をスキップ";
 "ShowProgressBar" = "進行状況バーを表示";
@@ -189,8 +197,6 @@
 "NicknameColorGlobalDesc" = "アプリ全体でニックネームの色を変更します。\"%@\"を有効にする必要があります"; // %@ is NicknameColor
 "CommentColor" =  "説明の色を変更";
 "CommentColorDesc" =  "動画の説明の色を変更します";
-"CommentColorGlobal" =  "コメントに適用";
-"CommentColorGlobalDesc" =  "コメントの色を変更します";
 "SelectColor" = "色を選択";
 "ProfileTextShadow" = "サムネイルに影を適用";
 "ProfileTextShadowDesc" = "プロフィールの動画サムネイルに統計情報に影を適用します";
@@ -207,6 +213,10 @@
 "PadlockDesc" = "アプリのロック解除にパスコードが必要です";
 "Cache" = "キャッシュをクリア";
 "Cleared" = "完了\n %@クリア済";
+"FixInteractions" = "Fix Interactions";
+"FixInteractionsDesc" = "Removes all data, including suspicious activity, thus restoring the ability to subscribe, like, and comment media";
+"FixInteractionsMsg" = "THIS ACTION CANNOT BE UNDONE.\n\nAll data, including: Authorization data, App settings, Tweaks settings and All existing drafts will be deleted.\n\nAre you sure you want to continue?";
+"RestartApp" = "Done.\nApp restart required";
 
 /* Special Thanks */
 "Arabic" = "アラビア語のローカライズ";
@@ -216,6 +226,7 @@
 "French" = "フランス語のローカライズ";
 "Vietnamese" = "ベトナム語のローカライズ";
 "Turkish" = "トルコ語のローカライズ";
+"Japanese" = "Japanese localization";
 
 /* Pop-ups And Other Stuff */
 "BHTikTokSettings" = "BHTikTok Plus";
@@ -230,6 +241,8 @@
 "No" = "いいえ";
 "Confirm" = "確認";
 "Cancel" = "キャンセル";
+"DownloadGroup" = "Download";
+"CopyGroup" = "Copy";
 "Downloading" = "ダウンロード中";
 "DownloadVideo" = "動画をダウンロード";
 "DownloadHDVideo" = "HD 動画をダウンロード";
@@ -252,6 +265,7 @@
 "Success" = "保存されました";
 "Copied" = "コピーされました";
 "Done" = "完了";
+"Share" = "Share";
 "NoFollows" = "フォローはありません";
 "FollowsYou" = "あなたをフォローしています";
 "DoesntFollowsYou" = "フォロー中";

@@ -40,6 +40,10 @@
 "CopyVideosLinkDesc" = "Adds a button to copy video links";
 "CopyMusicsLink" = "Copy Music Link";
 "CopyMusicsLinkDesc" = "Adds a button to copy music links";
+"GroupMenuItems" = "Group Menu Items";
+"GroupMenuItemsDesc" = "Groups menu items to Download and Copy Information submenus";
+"CompactProgress" = "Compact Progress Bar";
+"CompactProgressDesc" = "Displays a compact downloading progress bar at the bottom of the screen";
 "RemoveWatermark" = "Disable Watermarks";
 "RemoveWatermarkDesc" = "Useful if you want to download videos without watermarks from the standard TikTok menu";
 "DownloadProfileHeader" = "Profile";
@@ -62,14 +66,18 @@
 "HideUIDesc" = "Adds a button to hide/show interface buttons";
 "UploadRegion" = "Display Upload Country";
 "UploadRegionDesc" = "Shows the video's upload country flag next to the username";
+"NoPullToRefresh" = "Disable Pull To Refresh";
+"NoPullToRefreshDesc" = "Disables the gesture to refresh the feed by pulling down on the first page";
 "ShowUsername" = "Display Username";
 "ShowUsernameDesc" = "Shows username instead of nickname, as it was in older versions";
 "TransparentComms" = "Semi-transparent Comments";
 "TransparentCommsDesc" = "Makes the background of comment window semi-transparent, allowing you to read comments while watching videos";
 "ClearLinks" = "Clear Links";
 "ClearLinksDesc" = "Removes tracking from links shared from your account";
+"NoWarnings" = "Disable Warnings";
+"NoWarningsDesc" = "Removes the warning message under the video description";
 "SkipRecs" = "Skip Recommendations";
-"SkipLive" = "Skip Live Broadcasts";
+"SkipLive" = "Disable Live Broadcasts";
 "ShowProgressBar" = "Show Progress Bar";
 "PlaybackAction" = "Action after Video Playback Completion";
 "Replay" = "Repeat";
@@ -189,8 +197,6 @@
 "NicknameColorGlobalDesc" = "Changes nicknames color throughout the app. Enabling \"%@\" option required"; // %@ is NicknameColor
 "CommentColor" =  "Change Description Color";
 "CommentColorDesc" =  "Alters the colors of video descriptions";
-"CommentColorGlobal" =  "Apply to comments";
-"CommentColorGlobalDesc" =  "Alters the colors of comments";
 "SelectColor" = "Choose Color";
 "ProfileTextShadow" = "Apply Shadow to Thumbnails";
 "ProfileTextShadowDesc" = "Applies shadow to statistics on video thumbnails in profiles";
@@ -206,7 +212,11 @@
 "Padlock" = "Passcode Lock";
 "PadlockDesc" = "Requires a passcode to unlock the app";
 "Cache" = "Clear Cache";
-"Cleared" = "Done\nCleared %@";
+"Cleared" = "Done.\nCleared %@";
+"FixInteractions" = "Fix Interactions";
+"FixInteractionsDesc" = "Removes all data, including suspicious activity, thus restoring the ability to subscribe, like, and comment media";
+"FixInteractionsMsg" = "THIS ACTION CANNOT BE UNDONE.\n\nAll data, including: Authorization data, App settings, Tweaks settings and All existing drafts will be deleted.\n\nAre you sure you want to continue?";
+"RestartApp" = "Done.\nApp restart required";
 
 /* Special Thanks */
 "Arabic" = "Arabic localization";
@@ -216,6 +226,7 @@
 "French" = "French localization";
 "Vietnamese" = "Vietnamese localization";
 "Turkish" = "Turkish localization";
+"Japanese" = "Japanese localization";
 
 /* Pop-ups And Other Stuff */
 "BHTikTokSettings" = "BHTikTok Plus";
@@ -230,6 +241,8 @@
 "No" = "No";
 "Confirm" = "Confirm";
 "Cancel" = "Cancel";
+"DownloadGroup" = "Download";
+"CopyGroup" = "Copy";
 "Downloading" = "Downloading";
 "DownloadVideo" = "Download Video";
 "DownloadHDVideo" = "Download HD Video";
@@ -252,6 +265,7 @@
 "Success" = "Saved";
 "Copied" = "Copied";
 "Done" = "Done";
+"Share" = "Share";
 "NoFollows" = "No follows";
 "FollowsYou" = "Follows you";
 "DoesntFollowsYou" = "Following";

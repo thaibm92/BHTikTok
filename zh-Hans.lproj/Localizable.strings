@@ -40,6 +40,10 @@
 "CopyVideosLinkDesc" = "添加复制视频链接的按钮";
 "CopyMusicsLink" = "复制音乐链接";
 "CopyMusicsLinkDesc" = "添加复制音乐链接的按钮";
+"GroupMenuItems" = "Group Menu Items";
+"GroupMenuItemsDesc" = "Groups menu items to Download and Copy Information submenus";
+"CompactProgress" = "Compact Progress Bar";
+"CompactProgressDesc" = "Displays a compact downloading progress bar at the bottom of the screen";
 "RemoveWatermark" = "禁用水印";
 "RemoveWatermarkDesc" = "可以下载没有水印的视频";
 "DownloadProfileHeader" = "个人主页";
@@ -62,14 +66,18 @@
 "HideUIDesc" = "添加一个按钮“隐藏/显示”界面按钮";
 "UploadRegion" = "显示上传国家/地区";
 "UploadRegionDesc" = "在昵称旁边显示视频的上传“国家/地区”标志";
+"NoPullToRefresh" = "Disable Pull To Refresh";
+"NoPullToRefreshDesc" = "Disables the gesture to refresh the feed by pulling down on the first page";
 "ShowUsername" = "显示用户名而非昵称";
 "ShowUsernameDesc" = "就像在旧版本中一样，显示用户名而不是昵称。";
 "TransparentComms" = "半透明评论";
 "TransparentCommsDesc" = "使评论窗口的背景半透明，允许在观看视频时阅读评论。";
 "ClearLinks" = "删除跟踪参数";
 "ClearLinksDesc" = "从您分享的链接中删除跟踪参数";
+"NoWarnings" = "Disable Warnings";
+"NoWarningsDesc" = "Removes the warning message under the video description";
 "SkipRecs" = "跳过推荐";
-"SkipLive" = "跳过直播";
+"SkipLive" = "Disable Live Broadcasts";
 "ShowProgressBar" = "显示进度条";
 "PlaybackAction" = "视频播放完成后的操作";
 "Replay" = "重播";
@@ -189,12 +197,10 @@
 "NicknameColorGlobalDesc" = "更改整个应用程序的昵称颜色，需要启用 \"%@\" 选项。";
 "CommentColor" =  "更改文案颜色";
 "CommentColorDesc" =  "更改视频文案的颜色";
-"CommentColorGlobal" =  "应用于评论";
-"CommentColorGlobalDesc" =  "更改评论的颜色";
 "SelectColor" = "选择颜色";
 "ProfileTextShadow" = "缩略图阴影";
 "ProfileTextShadowDesc" = "将阴影应用于个人主页中视频缩略图的统计信息";
-"NicknameTextShadow" = "昵称阴影";
+"NicknameTextShadow" = "将阴影应用于昵称";
 "NicknameTextShadowDesc" = "将阴影应用于视频流中的昵称";
 "NicknameGlobalShadow" = "应用于所有昵称";
 "NicknameGlobalShadowDesc" = "将阴影应用于整个应用程序中的所有昵称，需要启用 \"%@\" 选项。";
@@ -207,6 +213,10 @@
 "PadlockDesc" = "需要密码才能解锁进入应用程序";
 "Cache" = "清除缓存";
 "Cleared" = "完成\n已清除 %@";
+"FixInteractions" = "Fix Interactions";
+"FixInteractionsDesc" = "Removes all data, including suspicious activity, thus restoring the ability to subscribe, like, and comment media";
+"FixInteractionsMsg" = "THIS ACTION CANNOT BE UNDONE.\n\nAll data, including: Authorization data, App settings, Tweaks settings and All existing drafts will be deleted.\n\nAre you sure you want to continue?";
+"RestartApp" = "Done.\nApp restart required";
 
 /* Special Thanks */
 "Arabic" = "阿拉伯语本地化";
@@ -216,6 +226,7 @@
 "French" = "法语本地化";
 "Vietnamese" = "越南语本地化";
 "Turkish" = "土耳其语本地化";
+"Japanese" = "Japanese localization";
 
 /* Pop-ups And Other Stuff */
 "BHTikTokSettings" = "BHTikTok Plus";
@@ -230,6 +241,8 @@
 "No" = "不";
 "Confirm" = "确认";
 "Cancel" = "取消";
+"DownloadGroup" = "Download";
+"CopyGroup" = "Copy";
 "Downloading" = "正在下载";
 "DownloadVideo" = "下载视频";
 "DownloadHDVideo" = "下载高清视频";
@@ -252,6 +265,7 @@
 "Success" = "已保存";
 "Copied" = "已复制";
 "Done" = "完成";
+"Share" = "Share";
 "NoFollows" = "没有关注";
 "FollowsYou" = "关注你";
 "DoesntFollowsYou" = "粉丝数";
