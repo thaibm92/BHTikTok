@@ -215,7 +215,7 @@
 "Cleared" = "完成\n已清除 %@";
 "FixInteractions" = "修復問題";
 "FixInteractionsDesc" = "移除所有資料，包括可疑活動，還原訂閱、點讚和評論媒體的功能";
-"FixInteractionsMsg" = "此動作無法還原.\n\n所有資料, 包括: 授權資料、應用程式設定、BHTikTok Plus 設定和所有現有草稿將被刪除.\n\n是否確定要繼續?";
+"FixInteractionsMsg" = "此動作無法還原.\n\n所有資料, 包括: 授權資料、應用程式設定、BHTikTok Plus設定和所有現有草稿將被刪除.\n\n是否確定要繼續?";
 "RestartApp" = "完成.\n應用程式需要重新啟動";
 
 /* Special Thanks */
