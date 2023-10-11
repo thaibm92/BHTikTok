@@ -75,7 +75,7 @@
 "ClearLinks" = "删除跟踪参数";
 "ClearLinksDesc" = "从您分享的链接中删除跟踪参数";
 "NoWarnings" = "禁用警告";
-"NoWarningsDesc" = "移除视频文案下的警告消息";
+"NoWarningsDesc" = "移除视频文案下的警告信息";
 "SkipRecs" = "跳过推荐";
 "SkipLive" = "禁用直播";
 "ShowProgressBar" = "显示进度条";
