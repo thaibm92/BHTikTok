@@ -40,10 +40,10 @@
 "CopyVideosLinkDesc" = "Thêm nút sao chép link video";
 "CopyMusicsLink" = "Sao chép liên kết nhạc";
 "CopyMusicsLinkDesc" = "Thêm nút copy link nhạc";
-"GroupMenuItems" = "Group Menu Items";
-"GroupMenuItemsDesc" = "Groups menu items to Download and Copy Information submenus";
-"CompactProgress" = "Compact Progress Bar";
-"CompactProgressDesc" = "Displays a compact downloading progress bar at the bottom of the screen";
+"GroupMenuItems" = "Nhóm các Menu";
+"GroupMenuItemsDesc" = "Tạo nhóm cho các mục menu vào menu con Tải xuống và Sao chép Thông tin";
+"CompactProgress" = "Thanh tiến trình nhỏ gọn";
+"CompactProgressDesc" = "Hiển thị thanh tiến trình tải xuống nhỏ gọn ở cuối màn hình";
 "RemoveWatermark" = "Tắt hình mờ";
 "RemoveWatermarkDesc" = "Hữu ích nếu bạn muốn tải xuống video không có hình mờ từ menu TikTok tiêu chuẩn";
 "DownloadProfileHeader" = "Hồ sơ";
@@ -66,18 +66,18 @@
 "HideUIDesc" = "Thêm nút để ẩn/hiện các nút giao diện";
 "UploadRegion" = "Hiển thị quốc gia tải lên";
 "UploadRegionDesc" = "Hiển thị cờ quốc gia tải lên của video bên cạnh tên người dùng";
-"NoPullToRefresh" = "Disable Pull To Refresh";
-"NoPullToRefreshDesc" = "Disables the gesture to refresh the feed by pulling down on the first page";
+"NoPullToRefresh" = "Vô hiệu hóa kéo để làm mới";
+"NoPullToRefreshDesc" = "Tắt cử chỉ làm mới nguồn cấp dữ liệu bằng cách kéo xuống trang đầu tiên";
 "ShowUsername" = "Hiển thị tên người dùng";
 "ShowUsernameDesc" = "Hiển thị tên người dùng thay vì biệt hiệu, như trong các phiên bản cũ hơn";
 "TransparentComms" = "Bình luận một nửa công khai";
 "TransparentCommsDesc" = "Làm nền của cửa sổ bình luận trở nên trong suốt, cho phép bạn đọc bình luận trong khi xem video";
 "ClearLinks" = "Xóa liên kết";
 "ClearLinksDesc" = "Xóa theo dõi khỏi các liên kết được chia sẻ từ tài khoản của bạn";
-"NoWarnings" = "Disable Warnings";
-"NoWarningsDesc" = "Removes the warning message under the video description";
+"NoWarnings" = "Tắt cảnh báo";
+"NoWarningsDesc" = "Loại bỏ thông báo cảnh báo dưới phần mô tả video";
 "SkipRecs" = "Bỏ qua đề xuất";
-"SkipLive" = "Disable Live Broadcasts";
+"SkipLive" = "Tắt chương trình phát sóng trực tiếp";
 "ShowProgressBar" = "Hiển thị thanh tiến trình";
 "PlaybackAction" = "Hành động sau khi hoàn thành phát lại video";
 "Replay" = "Lặp lại";
@@ -213,10 +213,10 @@
 "PadlockDesc" = "Yêu cầu mật mã để mở khóa ứng dụng";
 "Cache" = "Xóa bộ nhớ đệm";
 "Cleared" = "Xong\nĐã xóa %@";
-"FixInteractions" = "Fix Interactions";
-"FixInteractionsDesc" = "Removes all data, including suspicious activity, thus restoring the ability to subscribe, like, and comment media";
-"FixInteractionsMsg" = "THIS ACTION CANNOT BE UNDONE.\n\nAll data, including: Authorization data, App settings, Tweaks settings and All existing drafts will be deleted.\n\nAre you sure you want to continue?";
-"RestartApp" = "Done.\nApp restart required";
+"FixInteractions" = "Sửa lỗi tương tác";
+"FixInteractionsDesc" = "Xóa tất cả dữ liệu, bao gồm cả hoạt động đáng ngờ, do đó khôi phục khả năng đăng ký, thích và bình luận phương tiện";
+"FixInteractionsMsg" = "KHÔNG THỂ HOÀN TÁC HÀNH ĐỘNG NÀY.\n\nTất cả dữ liệu, bao gồm: Dữ liệu ủy quyền, Cài đặt ứng dụng, Cài đặt chỉnh sửa và Tất cả bản nháp hiện có sẽ bị xóa.\n\nBạn có chắc chắn muốn tiếp tục không?";
+"RestartApp" = "Hoàn thành.\nYêu cầu khởi động lại ứng dụng";
 
 /* Special Thanks */
 "Arabic" = "Bản địa hóa tiếng Ả Rập";
